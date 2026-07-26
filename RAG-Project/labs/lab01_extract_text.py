@@ -1,7 +1,3 @@
-
-
-
-
 """
 LAB 1: Read the original data file (data/sex_q_a.txt) and 
 extract question-answer pairs. Save the results to outputs/extracted_text.json

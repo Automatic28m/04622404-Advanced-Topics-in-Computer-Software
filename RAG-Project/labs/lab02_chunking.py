@@ -1,6 +1,3 @@
-
-
-
 """
 LAB 2: Chunking form Lab 1 (extracted_text.json) to prepare for embedding in the next step.
 Save the results to outputs/chunks.json
