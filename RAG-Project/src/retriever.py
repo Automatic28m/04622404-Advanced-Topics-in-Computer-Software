@@ -16,7 +16,7 @@ class Retriever:
 
         self.chunks = load_chunk_store(chunk_store_path)
 
-    def retrieve(self, query, top_k=None):
+    def retrieve(self, query, top_k=1):
         """
         receive a user query and return the top_k most relevant chunks
         each result is a dict containing the original chunk + its similarity score
