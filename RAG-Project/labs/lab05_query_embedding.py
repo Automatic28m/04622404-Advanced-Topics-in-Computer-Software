@@ -19,7 +19,7 @@ def main():
 
     model = EmbeddingModel(config.EMBEDDING_MODEL_NAME)
 
-    query = "Retail Shop Team Project"
+    query = "ผลงานด้านการเขียนโค้ด"
     print(f" Exp Query: {query}")
 
     query_vector = model.encode_query(query)
