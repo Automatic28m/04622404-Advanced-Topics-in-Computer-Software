@@ -1,5 +1,7 @@
 # DL-03-Retrieval-Augmented Generation (RAG) 
 
+## Personal Portfolio RAG System
+
 Build a simple RAG retrieval pipeline from scratch using Python, including PDF loading, chunking, embeddings, a vector database, and semantic document search.
  
 ---- 
