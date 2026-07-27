@@ -1,5 +1,3 @@
-
-
 """
 Lab 4: vector database (output) from LAB 3 embeddings and 
 create FAISS index and chunk store (metadata) for retrieval.

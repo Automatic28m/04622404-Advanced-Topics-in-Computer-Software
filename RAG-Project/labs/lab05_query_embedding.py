@@ -1,6 +1,3 @@
-
-
-
 """
 Lab 5: Experiment with query embedding to vector space using 
 the same model as used for chunk embeddings (Lab 3).
@@ -22,7 +19,7 @@ def main():
 
     model = EmbeddingModel(config.EMBEDDING_MODEL_NAME)
 
-    query = "ถุงยางอนามัยแตกต้องทำยังไง"
+    query = "ผลงานด้านการเขียนโค้ด"
     print(f" Exp Query: {query}")
 
     query_vector = model.encode_query(query)

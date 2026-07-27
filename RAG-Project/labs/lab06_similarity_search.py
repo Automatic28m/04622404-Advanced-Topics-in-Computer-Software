@@ -1,6 +1,3 @@
-
-
-
 """
 Lab 6: load faiss index and perform similarity search
 chunks that are most similar to the sample query (top-k)
@@ -28,7 +25,7 @@ def main():
     store.load(config.FAISS_INDEX_FILE)
     chunks = load_chunk_store(config.CHUNK_STORE_FILE)
 
-    query = "ถุงยางอนามัยแตกต้องทำยังไง"
+    query = "ผลงานด้านการเขียนโค้ด"
     print(f"Exp Query: {query}")
 
     query_vector = model.encode_query(query)

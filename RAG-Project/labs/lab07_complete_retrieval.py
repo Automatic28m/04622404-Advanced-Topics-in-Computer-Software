@@ -1,6 +1,3 @@
-
-
-
 """
 Lab 7: Include all steps (embed query -> search in FAISS -> retrieve answer) 
 into a single pipeline using the Retriever class from src/retriever.py.
@@ -22,10 +19,9 @@ from src.retriever import Retriever
 # Questions for testing the retrieval system 
 # (covering multiple categories in the data) 
 SAMPLE_QUERIES = [
-    "ถุงยางอนามัยแตกต้องทำยังไง",
-    "PrEP กับ PEP ต่างกันยังไง",
-    "ควรตรวจโรคติดต่อทางเพศสัมพันธ์บ่อยแค่ไหน",
-    "ความยินยอมในเรื่องเพศคืออะไร",
+    "ประวัติการศึกษา",
+    "รางวัลที่ได้รับ",
+    "โปรเจกที่เคยทำ",
 ]
 
 def main():
