@@ -1,6 +1,3 @@
-
-
-
 """
 include both steps "convert query to vector" + "search in FAISS" into a single class 
 to make it easy for main.py and lab07 to use with a single function call.
@@ -19,12 +16,15 @@ class Retriever:
 
         self.chunks = load_chunk_store(chunk_store_path)
 
-    def retrieve(self, query, top_k=3):
+    def retrieve(self, query, top_k=None):
         """
         receive a user query and return the top_k most relevant chunks
         each result is a dict containing the original chunk + its similarity score
         """
         query_vector = self.embedding_model.encode_query(query)
+        if top_k is None:
+            top_k = self.vector_store.index.ntotal
+
         scores, indices = self.vector_store.search(query_vector, top_k)
 
         results = []
@@ -33,6 +33,7 @@ class Retriever:
                 continue
             chunk = dict(self.chunks[idx])
             chunk["score"] = float(score)
-            results.append(chunk)
-
+            if chunk["score"] >= 0.5:
+                results.append(chunk)
+                
         return results
