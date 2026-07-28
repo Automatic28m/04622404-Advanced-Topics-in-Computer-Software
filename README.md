@@ -11,3 +11,6 @@ The course follows the official course description and extends it with modern AI
 ## Owner Information
 - 116730462006-1 Phanlop Boonluea
 - Computer Engineering Department, Engineering Faculty, RMUTT
+
+## Team Repository
+- Please check out this repository for team project https://github.com/Automatic28m/Advance-AI-RAG
