@@ -8,7 +8,7 @@ Compile: python labs/lab05_query_embedding.py
 import os
 import sys
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
 from src.embedding_model import EmbeddingModel
@@ -19,7 +19,7 @@ def main():
 
     model = EmbeddingModel()
 
-    query = "ผลงานด้านการเขียนโค้ด"
+    query = "Have you ever been through any competition?"
     print(f" Exp Query: {query}")
 
     query_vector = model.encode_query(query)

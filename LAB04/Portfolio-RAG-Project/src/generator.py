@@ -23,7 +23,7 @@ class LLM:
         self.model = config.LLM_MODEL or default_model
 
         # Ollama ไม่ต้องใช้ key 
-        api_key = os.getenv(key_name) if key_name else "ollama-ไม่ใช้-key"
+        api_key = os.getenv(key_name) if key_name else "ollama-no-key"
 
         self.client = OpenAI(base_url=base_url, api_key=api_key)
         #print(f"[llm] use {config.LLM_PROVIDER} · model {self.model}")
@@ -46,15 +46,14 @@ class NoLLM:
     def chat(self, messages):
         user_message = messages[-1]["content"]
 
-        # ดึงเนื้อหาบล็อก [1] ออกมาจาก prompt
-        parts = user_message.split("reference data :")
+        # ดึงเนื้อหาทั้งหมดออกจาก prompt
+        parts = user_message.split("ข้อมูลอ้างอิง:")
         if len(parts) < 2:
             return config.NO_CONTEXT_MESSAGE
 
-        context = parts[1].split("Q of user")[0].strip()
-        first_block = context.split("\n\n")[0].replace("[1]", "").strip()
-
-        return f"{first_block} [1]" if first_block else config.NO_CONTEXT_MESSAGE
+        context = parts[1].split("คำถามของผู้ใช้:")[0].strip()
+        
+        return context if context else config.NO_CONTEXT_MESSAGE
 
 
 def get_llm():
@@ -89,7 +88,7 @@ class Generator:
             answer = self.llm.chat(messages)
         except Exception as error:
             #print(f"[llm] เรียกไม่สำเร็จ ({error}) — แสดงข้อมูลที่ค้นได้แทน")
-            answer = chunks[0]["answer"]
+            answer = "\n\n".join([f"[{i+1}] {c.get('answer', c.get('text', ''))}" for i, c in enumerate(chunks)])
 
         if config.DISCLAIMER not in answer:
             answer = f"{answer}\n\n{config.DISCLAIMER}"
