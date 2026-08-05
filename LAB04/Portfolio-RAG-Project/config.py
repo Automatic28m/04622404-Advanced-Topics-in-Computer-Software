@@ -32,7 +32,7 @@ VECTOR_DB_DIR = os.path.join(BASE_DIR, "vector_db")
 
 
 # clack python build_index.py
-SOURCE_FILE = os.path.join(DATA_DIR, "portfolio_qa.txt")
+SOURCE_FILE = os.path.join(DATA_DIR, "portfolio_qa_en.txt")
 GOLDEN_SET_FILE = os.path.join(DATA_DIR, "portfolio_golden_set.json")
 
 # ผลลัพธ์ระหว่างทางจาก build_index.py
@@ -57,8 +57,8 @@ CHUNK_OVERLAP = 50      # ให้ chunk ที่ติดกันเหล�
 EMBEDDING_MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
 
 # 4. การค้นหา
-TOP_K = 3               # ส่งกี่ chunk ให้ LLM เขียนคำตอบ
-CANDIDATE_K = 20        # ดึง TOP_K
+TOP_K = 15               # ส่งกี่ chunk ให้ LLM เขียนคำตอบ
+CANDIDATE_K = 30        # ดึง TOP_K
 RRF_K = 60              # ค่าคงที่ของสูตร RRF 
 
 RERANK_MODEL_NAME = "BAAI/bge-reranker-v2-m3"   # ใช้เมื่อ USE_RERANK = True
@@ -67,23 +67,22 @@ QUERY_TRANSFORM_MODE = "multi_query"   # rewrite | multi_query | hyde
 MULTI_QUERY_COUNT = 3
 
 # 5. LLM
-LLM_PROVIDER = "ollama"
+os.environ["GROQ_API_KEY"] = "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"
+
+LLM_PROVIDER = "groq"
 LLM_MODEL = ""          # เว้นว่าง = ใช้ค่า default 
 LLM_TEMPERATURE = 0.2   # เหมือนค่าเทรดโฮล 
 LLM_MAX_TOKENS = 800
 
 LLM_PROVIDERS = {
     "ollama": ("http://localhost:11434/v1", "llama3.1:8b", None),
-    "openai": ("https://api.openai.com/v1", "gpt-4o-mini", "OPENAI_API_KEY"),
-    "gemini": ("https://generativelanguage.googleapis.com/v1beta/openai/",
-               "gemini-1.5-flash", "GOOGLE_API_KEY"),
+    "groq": ("https://api.groq.com/openai/v1", "llama-3.1-8b-instant", "GROQ_API_KEY"),
 }
-
 
 # 6. ข้อความและการวัดผล
 MEMORY_MAX_TURNS = 6    # จำนวนรอบของการจำบทสนทนา
-NO_CONTEXT_MESSAGE = "ขออภัย ไม่พบข้อมูลที่เกี่ยวข้อง"
-DISCLAIMER = "หมายเหตุ: ข้อมูลนี้ใช้เพื่อการศึกษาเท่านั้น"
+NO_CONTEXT_MESSAGE = "Sorry, there's no related answer."
+DISCLAIMER = ""
 
 EVAL_K_VALUES = [1, 3, 5, 10]
 GOLDEN_SET_SIZE = 60

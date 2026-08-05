@@ -9,9 +9,8 @@ import json
 import os
 import sys
 
-# Add path of the project to allow importing config and src modules, 
-# regardless of the current working directory
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add the project root ahead of other entries so local imports win when run directly.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
 from src.document_loader import load_qa_file

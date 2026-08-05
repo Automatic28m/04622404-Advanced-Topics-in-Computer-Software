@@ -1,569 +1,499 @@
 [
   {
     "id": 0,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "ชื่อจริงคืออะไร",
-    "answer": "ชื่อจริงคือ พัลลภ บุญเหลือ",
-    "line_no": 8
+    "category": "No category",
+    "question": "What is B.Eng. Computer Engineering (Currently)?",
+    "answer": "B.Eng. Computer Engineering (Currently) is an education milestone. It includes GPAX 3.97. It was completed at Rajamangala University of Technology Tanyaburi. Date: 2025-12-31 00:00:00.",
+    "line_no": 5
   },
   {
     "id": 1,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "ชื่อเล่นเรียกว่าอะไร",
-    "answer": "ชื่อเล่นคือ โต้",
-    "line_no": 12
+    "category": "No category",
+    "question": "What is High Voc. Cert. Computer Software Dev.?",
+    "answer": "High Voc. Cert. Computer Software Dev. is an education milestone. It includes GPAX 4.00. It was completed at Thai-Austrian Technical College. Date: 2023-12-31 00:00:00.",
+    "line_no": 9
   },
   {
     "id": 2,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "เกิดวันที่เท่าไหร่ วันเกิดคือวันไหน",
-    "answer": "เกิดวันที่ 28 พฤษภาคม พ.ศ. 2546 (ค.ศ. 2003)",
-    "line_no": 16
+    "category": "No category",
+    "question": "What is Voc. Cert. Infomation Technology?",
+    "answer": "Voc. Cert. Infomation Technology is an education milestone. It includes GPAX 3.92. It was completed at Thai-Austrian Technical College. Date: 2021-12-31 00:00:00.",
+    "line_no": 13
   },
   {
     "id": 3,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "ตอนนี้อายุเท่าไหร่",
-    "answer": "เกิดวันที่ 28 พฤษภาคม 2546 ดังนั้นถ้านับถึงปัจจุบัน (กรกฎาคม 2569) จะมีอายุ 23 ปี",
-    "line_no": 20
+    "category": "No category",
+    "question": "What is Junior High School?",
+    "answer": "Junior High School is an education milestone. It includes GPAX 3.86. It was completed at Pattanavechsuksa School. Date: 2017-12-31 00:00:00.",
+    "line_no": 17
   },
   {
     "id": 4,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "สัญชาติและเชื้อชาติอะไร",
-    "answer": "สัญชาติไทย เชื้อชาติไทย",
-    "line_no": 24
+    "category": "No category",
+    "question": "What is Primary School?",
+    "answer": "Primary School is an education milestone. It includes GPAX 3.70. It was completed at Pattanavechsuksa School. Date: 2014-12-31 00:00:00.",
+    "line_no": 21
   },
   {
     "id": 5,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "เกิดที่จังหวัดไหน บ้านเกิดอยู่ที่ไหน",
-    "answer": "เกิดที่จังหวัดชลบุรี",
-    "line_no": 28
+    "category": "No category",
+    "question": "What can you say about HTML?",
+    "answer": "HTML is listed as one of the portfolio skills.",
+    "line_no": 25
   },
   {
     "id": 6,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "เพศอะไร",
-    "answer": "เพศชาย",
-    "line_no": 32
+    "category": "No category",
+    "question": "What can you say about CSS?",
+    "answer": "CSS is listed as one of the portfolio skills.",
+    "line_no": 29
   },
   {
     "id": 7,
-    "category": "ข้อมูลส่วนตัว",
-    "question": "ตอนนี้กำลังศึกษาอะไรอยู่ เรียนที่ไหน",
-    "answer": "กำลังศึกษาระดับปริญญาตรี สาขาวิศวกรรมคอมพิวเตอร์ ที่มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี (RMUTT) เกรดเฉลี่ยสะสมอยู่ที่ 3.97 คาดว่าจะจบการศึกษาในปี 2568",
-    "line_no": 36
+    "category": "No category",
+    "question": "What can you say about PHP?",
+    "answer": "PHP is listed as one of the portfolio skills.",
+    "line_no": 33
   },
   {
     "id": 8,
-    "category": "ภาพรวม",
-    "question": "ช่วยแนะนำตัวคนๆ นี้ให้ฟังหน่อย",
-    "answer": "นี่คือพัลลภ บุญเหลือ ชื่อเล่นโต้ ชายไทยเกิดที่จังหวัดชลบุรี ปัจจุบันกำลังศึกษาปริญญาตรี วิศวกรรมคอมพิวเตอร์ ที่มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี ด้วยเกรดเฉลี่ยสะสม 3.97 มีพื้นฐานด้านการพัฒนาเว็บไซต์ แอปพลิเคชันมือถือ และระบบ IoT ผ่านโปรเจกต์และการฝึกงานหลายชิ้น เคยเป็นตัวแทนสถาบันเข้าแข่งขันทั้งด้านเทคโนโลยีเครือข่าย การเขียนโปรแกรม (ICPC) และนวัตกรรมป้องกันประเทศ (TESA TOP GUN) นอกจากด้านเทคนิคแล้วยังมีความสามารถด้านภาษาอังกฤษและการพูดในที่สาธารณะ เคยทำหน้าที่พิธีกรและตัวแทนนำเสนอข้อมูลให้สถาบันในหลายโอกาส",
-    "line_no": 42
+    "category": "No category",
+    "question": "What can you say about SQL?",
+    "answer": "SQL is listed as one of the portfolio skills.",
+    "line_no": 37
   },
   {
     "id": 9,
-    "category": "ภาพรวม",
-    "question": "จุดเด่นของคนๆ นี้คืออะไร",
-    "answer": "จุดเด่นคือความหลากหลาย ทั้งด้านเทคนิค (พัฒนาเว็บ แอปมือถือ ระบบ IoT ด้วยหลายภาษาและเฟรมเวิร์ก) ด้านผลการเรียนที่โดดเด่นต่อเนื่องตั้งแต่ระดับอาชีวศึกษาจนถึงมหาวิทยาลัย (เคยได้เกรดเฉลี่ย 4.00 หลายภาคการศึกษา) และด้านการแสดงออก/ภาวะผู้นำ เช่น การเป็นพิธีกร ตัวแทนนำเสนอข้อมูลต่อแขกต่างชาติ และรางวัลด้านการพูดภาษาอังกฤษหลายรางวัล อีกทั้งยังมีประสบการณ์แข่งขันระดับประเทศและนานาชาติ เช่น ICPC และ TESA TOP GUN",
-    "line_no": 46
+    "category": "No category",
+    "question": "What can you say about C?",
+    "answer": "C is listed as one of the portfolio skills.",
+    "line_no": 41
   },
   {
     "id": 10,
-    "category": "ประวัติการศึกษา",
-    "question": "อยากทราบประวัติการศึกษา เรียนที่ไหนมาบ้าง",
-    "answer": "ประถมศึกษา: โรงเรียนพัฒนาวิทยา (เกรดเฉลี่ย 3.70) จบปี 2557",
-    "line_no": 52
+    "category": "No category",
+    "question": "What can you say about Python?",
+    "answer": "Python is listed as one of the portfolio skills.",
+    "line_no": 45
   },
   {
     "id": 11,
-    "category": "ประวัติการศึกษา",
-    "question": "จบมัธยมและประถมจากโรงเรียนอะไร",
-    "answer": "จบทั้งระดับประถมศึกษาและมัธยมศึกษาตอนต้นจากโรงเรียนพัฒนาวิทยา โดยได้เกรดเฉลี่ย 3.70 ตอนประถม (จบปี 2557) และ 3.86 ตอนมัธยมต้น (จบปี 2560)",
-    "line_no": 60
+    "category": "No category",
+    "question": "What can you say about React.js?",
+    "answer": "React.js is listed as one of the portfolio skills. Associated location: RMUTT. Date: 2025-05-27 00:00:00.",
+    "line_no": 49
   },
   {
     "id": 12,
-    "category": "ประวัติการศึกษา",
-    "question": "จบ ปวช. และ ปวส. จากที่ไหน เกรดเท่าไหร่",
-    "answer": "จบทั้ง ปวช. สาขาเทคโนโลยีสารสนเทศ (เกรดเฉลี่ย 3.92 จบปี 2564) และ ปวส. สาขาพัฒนาซอฟต์แวร์คอมพิวเตอร์ (เกรดเฉลี่ย 4.00 จบปี 2566) จากวิทยาลัยเทคนิคไทย-ออสเตรียน",
-    "line_no": 64
+    "category": "No category",
+    "question": "What can you say about Angular?",
+    "answer": "Angular is listed as one of the portfolio skills.",
+    "line_no": 53
   },
   {
     "id": 13,
-    "category": "ทักษะ",
-    "question": "มีทักษะหรือความเชี่ยวชาญด้านเทคโนโลยีอะไรบ้าง",
-    "answer": "ด้านภาษาโปรแกรมมิ่งพื้นฐาน: HTML, CSS, JavaScript, PHP, SQL, C, Python",
-    "line_no": 70
+    "category": "No category",
+    "question": "What can you say about Flutter?",
+    "answer": "Flutter is listed as one of the portfolio skills.",
+    "line_no": 57
   },
   {
     "id": 14,
-    "category": "ทักษะ",
-    "question": "ทักษะด้านฟรอนต์เอนด์มีอะไรบ้าง",
-    "answer": "ด้านฟรอนต์เอนด์มีทักษะ HTML, CSS, JavaScript, React.js, Angular, Next.js และ Tailwind CSS โดยได้ใช้งานจริงในหลายโปรเจกต์ ทั้งเว็บโพล เว็บช้อปปิ้ง และเว็บไซต์ท่องเที่ยว",
-    "line_no": 80
+    "category": "No category",
+    "question": "What can you say about Git?",
+    "answer": "Git is listed as one of the portfolio skills.",
+    "line_no": 61
   },
   {
     "id": 15,
-    "category": "ทักษะ",
-    "question": "ทักษะด้านแบ็กเอนด์และฐานข้อมูลมีอะไรบ้าง",
-    "answer": "ด้านแบ็กเอนด์มีทักษะ PHP, SQL, MySQL, Node.js และ Express.js รวมถึงเคยใช้ Java Spring Boot ในการพัฒนา RESTful API สำหรับโปรเจกต์เว็บแอปพลิเคชันหลายชิ้น",
-    "line_no": 84
+    "category": "No category",
+    "question": "What can you say about Figma?",
+    "answer": "Figma is listed as one of the portfolio skills.",
+    "line_no": 65
   },
   {
     "id": 16,
-    "category": "ทักษะ",
-    "question": "มีทักษะด้าน IoT หรือฮาร์ดแวร์ไหม",
-    "answer": "มีทักษะด้าน IoT และฮาร์ดแวร์ ได้แก่ Arduino IDE, PlatformIO, Raspberry Pi และโปรโตคอล MQTT สำหรับการสื่อสารระหว่างอุปกรณ์ เคยนำมาใช้จริงในโปรเจกต์ระบบตรวจวัดคุณภาพอากาศ (Air Monitor Pro) และระบบตรวจจับโดรนในการแข่งขัน TESA TOP GUN 2025",
-    "line_no": 88
+    "category": "No category",
+    "question": "What can you say about Third Runner-up in the National Skills Competition for Network Technology, 31st Edition.?",
+    "answer": "Third Runner-up in the National Skills Competition for Network Technology, 31st Edition. is listed as one of the portfolio skills. Details: Collaborated on a website development project, contributing to the frontend and backend using basic languages like HTML, PHP, CSS, SQL while my partner focused on the network infrastructure.. Associated location: Rayong Techical College. Date: 2023-02-03 00:00:00.",
+    "line_no": 69
   },
   {
     "id": 17,
-    "category": "ทักษะ",
-    "question": "มีทักษะด้าน AI หรือ Machine Learning ไหม",
-    "answer": "มีความรู้พื้นฐานด้าน AI/Machine Learning โดยใช้ TensorFlow เป็นเครื่องมือหลัก และเคยนำแนวคิด AI-based classification มาประยุกต์ใช้ในโปรเจกต์ Smart Bin System ระหว่างโครงการ Global Capstone Design Project ที่เกาหลีใต้",
-    "line_no": 92
+    "category": "No category",
+    "question": "What can you say about SOFTWARE DEVELOPER - TECHINVENT CO., LTD.?",
+    "answer": "SOFTWARE DEVELOPER - TECHINVENT CO., LTD. is listed as one of the portfolio skills. Details: Completed a 4-month internship focused on full-time development and learning through main company projects using ReactJS, Angular, Flutter, and various other technologies. In addition to technical growth, I gained valuable experience in corporate workflows and team collaboration, working closely with colleagues to achieve shared goals.. Associated location: Bangkok, Thailand. Date: 2023-10-15 00:00:00.",
+    "line_no": 73
   },
   {
     "id": 18,
-    "category": "ทักษะ",
-    "question": "มีทักษะด้านแอปพลิเคชันมือถือไหม",
-    "answer": "มีทักษะการพัฒนาแอปมือถือด้วย Flutter เคยสร้างทั้งแอปข่าวที่มีระบบบุ๊กมาร์ก และเกม 2 มิติแนวยิงยานอวกาศ",
-    "line_no": 96
+    "category": "No category",
+    "question": "What can you say about Won 1st place in the At the regional level: Eastern Region and Bangkok Skills Competition for Network Technology?",
+    "answer": "Won 1st place in the At the regional level: Eastern Region and Bangkok Skills Competition for Network Technology is listed as one of the portfolio skills. Details: Collaborated on a website development project, contributing to the frontend and backend using basic languages like HTML, PHP, CSS, SQL while my partner focused on the network infrastructure.. Associated location: Rayong Technical College. Date: 2022-10-31 00:00:00.",
+    "line_no": 77
   },
   {
     "id": 19,
-    "category": "ทักษะ",
-    "question": "ทักษะด้านภาษาอังกฤษเป็นอย่างไร",
-    "answer": "มีทักษะภาษาอังกฤษที่โดดเด่น สะท้อนจากคะแนน TOEIC 690 จาก 990 คะแนน และรางวัลการแข่งขันพูด/สาธิตภาษาอังกฤษหลายรายการ รวมถึงเคยรับหน้าที่เป็นตัวแทนนำเสนอข้อมูลเป็นภาษาอังกฤษให้แขกต่างชาติ และแปลโจทย์ปัญหาภาษาอังกฤษแบบเรียลไทม์ในการแข่งขัน ICPC 2025",
-    "line_no": 100
+    "category": "No category",
+    "question": "What can you say about ASIA STEEL TRANSPORT (1999) CO., LTD.?",
+    "answer": "ASIA STEEL TRANSPORT (1999) CO., LTD. is listed as one of the portfolio skills. Details: Gain hands-on experience in website development using WordPress, perform data analysis with MS Excel, conduct web application testing, generate reports, and engage in additional related tasks.. Associated location: Rayong Thailand. Date: 2021-09-16 00:00:00.",
+    "line_no": 81
   },
   {
     "id": 20,
-    "category": "ฝึกงาน",
-    "question": "เคยฝึกงานที่ไหนมาบ้าง",
-    "answer": "เคยฝึกงาน 2 ที่ ได้แก่ ตำแหน่ง Software Developer ที่บริษัท เทคอินเวนท์ จำกัด (กรุงเทพฯ) เป็นเวลา 4 เดือน ในปี 2566 และฝึกงานที่บริษัท เอเชีย สตีล ทรานสปอร์ต (1999) จำกัด (จังหวัดระยอง) ในปี 2564",
-    "line_no": 106
+    "category": "No category",
+    "question": "What can you say about Final Year Project for (Diploma, Software Development)?",
+    "answer": "Final Year Project for (Diploma, Software Development) is listed as one of the portfolio skills. Details: Developed a comprehensive student internship management system for Thai-Austrian Technical College using HTML, CSS, JavaScript, PHP, Bootstrap 5, and SQL.",
+    "line_no": 85
   },
   {
     "id": 21,
-    "category": "ฝึกงาน",
-    "question": "ฝึกงานตำแหน่ง Software Developer ที่บริษัทเทคอินเวนท์ ทำอะไรบ้าง ได้เรียนรู้อะไร",
-    "answer": "ฝึกงานเต็มเวลา 4 เดือน พัฒนาโปรเจกต์หลักของบริษัทด้วย ReactJS, Angular, Flutter และเทคโนโลยีอื่น ๆ นอกจากทักษะเทคนิคแล้ว ยังได้เรียนรู้การทำงานร่วมกับทีมในสภาพแวดล้อมองค์กรจริง",
-    "line_no": 110
+    "category": "No category",
+    "question": "What can you say about Retail Shop Team Project?",
+    "answer": "Retail Shop Team Project is listed as one of the portfolio skills. Details: Developed a fully functional web application for a retail shop using HTML, CSS, JavaScript, PHP, Bootstrap 5, and SQL. The project involved end-to-end development, including:",
+    "line_no": 91
   },
   {
     "id": 22,
-    "category": "ฝึกงาน",
-    "question": "ฝึกงานที่บริษัทเอเชีย สตีล ทรานสปอร์ต ทำอะไรบ้าง",
-    "answer": "ได้ลงมือพัฒนาเว็บไซต์ด้วย WordPress วิเคราะห์ข้อมูลด้วย MS Excel ทดสอบเว็บแอปพลิเคชัน จัดทำรายงาน และงานอื่น ๆ ที่เกี่ยวข้อง",
-    "line_no": 116
+    "category": "No category",
+    "question": "What can you say about Final Year Project (Vocational Certificate, Software Development)?",
+    "answer": "Final Year Project (Vocational Certificate, Software Development) is listed as one of the portfolio skills. Details: Developed an internship and company website for the IT and Computer Technology Department at Thai-Austrian Technical College.. Associated location: Thai-Austrian Technical College. Date: 2021-11-30 00:00:00.",
+    "line_no": 100
   },
   {
     "id": 23,
-    "category": "ผลงานและรางวัล",
-    "question": "มีผลงานหรือรางวัลอะไรบ้าง",
-    "answer": "มีรางวัลหลากหลายด้าน ครอบคลุมทั้งด้านเทคโนโลยีเครือข่าย (รองชนะเลิศระดับประเทศและชนะเลิศระดับภาค) ด้านภาษาอังกฤษ (รางวัลพูดสุนทรพจน์และสาธิตหลายรายการ รวมถึงคะแนน TOEIC 690) ด้านทุนการศึกษา (ทุนเรียนดีเกรด 4.00 และทุนจากกองเรือยุทธการ) ด้านการประกวดสิ่งประดิษฐ์ ด้านความเป็นผู้นำจากการเป็นนักศึกษาวิชาทหาร และการเป็นตัวแทนสถาบัน/มหาวิทยาลัยเข้าแข่งขันระดับประเทศอย่าง ICPC 2025 และ TESA TOP GUN 2025",
-    "line_no": 124
+    "category": "No category",
+    "question": "What can you say about Master of Ceremonies (MC) for the Thai-Austrian Tech Open House 2022?",
+    "answer": "Master of Ceremonies (MC) for the Thai-Austrian Tech Open House 2022 is listed as one of the portfolio skills. Details: พิธีกร งานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022. Associated location: Thai-Austrian Technical College. Date: 2022-11-30 00:00:00.",
+    "line_no": 104
   },
   {
     "id": 24,
-    "category": "ผลงานและรางวัล",
-    "question": "ผลงานด้านภาษาอังกฤษมีอะไรบ้าง",
-    "answer": "ด้านภาษาอังกฤษมีผลงานหลายรายการ ได้แก่ รางวัลรองชนะเลิศอันดับ 1 การแข่งขันพูดสุนทรพจน์ภาษาอังกฤษ ระดับอาชีวศึกษาจังหวัดชลบุรี (2563), รางวัลชนะเลิศพูดสุนทรพจน์ภาษาอังกฤษ ระดับสถานศึกษา (2 ครั้ง ปี 2563 และ 2564), รางวัลรองชนะเลิศการแข่งขันสาธิตเป็นภาษาอังกฤษระดับจังหวัด (2564), รางวัลรองชนะเลิศพูดภาษาอังกฤษหัวข้อ Start-up in the New Normal (2565), คะแนน TOEIC 690 จาก 990 (2566), เป็นผู้บรรยายสิ่งประดิษฐ์เป็นภาษาอังกฤษจนได้รับรางวัลเหรียญทองแดง (2564) และเคยเป็นตัวแทนนำเสนอข้อมูลแผนกคอมพิวเตอร์เป็นภาษาอังกฤษต้อนรับเอกอัครราชทูตออสเตรีย (2565)",
-    "line_no": 128
+    "category": "No category",
+    "question": "What can you say about Representative presenting information about the Digital Industry Department during the Sattahip Model visit led by Dr. Thanakorn Wangboonkongchana.?",
+    "answer": "Representative presenting information about the Digital Industry Department during the Sattahip Model visit led by Dr. Thanakorn Wangboonkongchana. is listed as one of the portfolio skills. Details: ตัวแทนนำเสนอข้อมูลแผนกอุตสาหกรรมดิจิทัล ในพิธีเยี่ยมชมสัตหีบโมเดล โดย ดร.ธนะกร วังบุญคงชนะ. Associated location: Thai-Austrian Technical College. Date: 2023-11-30 00:00:00.",
+    "line_no": 108
   },
   {
     "id": 25,
-    "category": "ผลงานและรางวัล",
-    "question": "ผลงานด้านเทคโนโลยีเครือข่ายมีอะไรบ้าง",
-    "answer": "มีรางวัล 2 รายการด้านเทคโนโลยีเครือข่าย คือรางวัลรองชนะเลิศอันดับ 2 การแข่งขันฝีมือแรงงานแห่งชาติ สาขาเทคโนโลยีเครือข่าย ครั้งที่ 31 (2566) และรางวัลชนะเลิศอันดับ 1 ระดับภาคตะวันออกและกรุงเทพฯ สาขาเดียวกัน (2565) ทั้งสองครั้งรับผิดชอบพัฒนาเว็บไซต์ฝั่งฟรอนต์เอนด์และแบ็กเอนด์ด้วย HTML, PHP, CSS, SQL ร่วมกับเพื่อนร่วมทีมที่ดูแลด้านระบบเครือข่าย",
-    "line_no": 132
+    "category": "No category",
+    "question": "What can you say about Presented the exhibition \"Lifelong Human Capacity Development and the Production and Development of Highly Skilled Vocational Manpower.\"?",
+    "answer": "Presented the exhibition \"Lifelong Human Capacity Development and the Production and Development of Highly Skilled Vocational Manpower.\" is listed as one of the portfolio skills. Details: นำเสนอนิทรรศการ \"การพัฒนาศักยภาพคนตลอดช่วงชีวิต การผลิตและพัฒนากำลังคนอาชีวศึกษาสมรรถะสูง\". Associated location: Thai-Austrian Technical College. Date: 2023-11-30 00:00:00.",
+    "line_no": 112
   },
   {
     "id": 26,
-    "category": "ผลงานและรางวัล",
-    "question": "เคยได้ทุนการศึกษาอะไรบ้าง",
-    "answer": "เคยได้รับทุนการศึกษา 2 ทุน คือทุนการศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567 จาก RMUTT และทุนส่งเสริมผู้เรียนดี เนื่องในวันคล้ายวันสถาปนากองการฝึก กองเรือยุทธการ (ทั้งสองทุนได้รับในปี 2568)",
-    "line_no": 136
+    "category": "No category",
+    "question": "What can you say about Represented and presented information about the Computer Department in English during the visit by the Ambassador of Austria.?",
+    "answer": "Represented and presented information about the Computer Department in English during the visit by the Ambassador of Austria. is listed as one of the portfolio skills. Details: ตัวแทนนำเสนอ นำเสนอข้อมูลแผนกคอมพิวเตอร์เป็นภาษาอังกฤษ ในพิธีเยี่ยมชมโดยฑูตจากประเทศออสเตรีย. Associated location: Thai-Austrian Technical College. Date: 2022-12-31 00:00:00.",
+    "line_no": 116
   },
   {
     "id": 27,
-    "category": "ผลงานและรางวัล",
-    "question": "เคยเป็นตัวแทนแข่งขันระดับประเทศหรือนานาชาติไหม",
-    "answer": "เคยเป็นตัวแทนมหาวิทยาลัยในการแข่งขันระดับประเทศ 2 รายการสำคัญ คือ ICPC 2025 (International Collegiate Programming Contest) ซึ่งแข่งกับทีมจาก 26 สถาบันทั่วประเทศ โดยรับหน้าที่แปลโจทย์ภาษาอังกฤษเป็นไทยแบบเรียลไทม์ให้ทีม และ TESA TOP GUN 2025 การแข่งขันด้านนวัตกรรมป้องกันประเทศ ซึ่งแข่งกับ 69 ทีมจาก 38 มหาวิทยาลัยทั่วประเทศ โดยรับผิดชอบพัฒนาระบบตรวจจับโดรน ทีมได้รับรางวัลคะแนนสูงสุดด้านการนำเสนอและด้านการบูรณาการสนามรบ",
-    "line_no": 140
+    "category": "No category",
+    "question": "What can you say about Conducted a guidance session on academic pathways for lower secondary school students.?",
+    "answer": "Conducted a guidance session on academic pathways for lower secondary school students. is listed as one of the portfolio skills. Details: แนะแนวและให้ความรู้การศึกษาต่อ แก่น้อง ๆ นักเรียนระดับมัธยมต้น. Associated location: Sattahip School. Date: 2021-12-31 00:00:00.",
+    "line_no": 120
   },
   {
     "id": 28,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"รองชนะเลิศอันดับ 2 การแข่งขันฝีมือแรงงานแห่งชาติ สาขาเทคโนโลยีเครือข่าย ครั้งที่ 31\" ได้มาอย่างไร",
-    "answer": "ร่วมพัฒนาเว็บไซต์ในทีม โดยรับผิดชอบฝั่งฟรอนต์เอนด์และแบ็กเอนด์ด้วย HTML, PHP, CSS, SQL ส่วนเพื่อนร่วมทีมดูแลด้านระบบเครือข่าย",
-    "line_no": 144
+    "category": "No category",
+    "question": "What can you say about Vice President of the Computer Department and Cheerleading Captain?",
+    "answer": "Vice President of the Computer Department and Cheerleading Captain is listed as one of the portfolio skills. Details: รองประธานแผนกคอมพิวเตอร์ และประธานเชียร์. Associated location: Thai-Austrian Technical College. Date: 2021-12-31 00:00:00.",
+    "line_no": 124
   },
   {
     "id": 29,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"ชนะเลิศอันดับ 1 ระดับภาคตะวันออกและกรุงเทพฯ การแข่งขันฝีมือแรงงาน สาขาเทคโนโลยีเครือข่าย\" ได้มาอย่างไร",
-    "answer": "ร่วมพัฒนาเว็บไซต์ในทีม โดยรับผิดชอบฝั่งฟรอนต์เอนด์และแบ็กเอนด์ด้วย HTML, PHP, CSS, SQL ส่วนเพื่อนร่วมทีมดูแลด้านระบบเครือข่าย",
-    "line_no": 150
+    "category": "No category",
+    "question": "What can you say about First Runner-up Award in the English Public Speaking Contest, Vocational Education Level, Chonburi Province?",
+    "answer": "First Runner-up Award in the English Public Speaking Contest, Vocational Education Level, Chonburi Province is listed as one of the portfolio skills. Details: รางวัลรองชนะเลิศอันดับ 1 English Public Speaking Contest ระดับอาชีวศึกษาจังหวัด จังหวัดชลบุรี. Associated location: Pattaya Technical College. Date: 2020-12-22 00:00:00.",
+    "line_no": 128
   },
   {
     "id": 30,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"รองชนะเลิศอันดับ 1 การแข่งขันพูดสุนทรพจน์ภาษาอังกฤษ ระดับอาชีวศึกษาจังหวัดชลบุรี\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลรองชนะเลิศอันดับ 1 จากการแข่งขันพูดสุนทรพจน์ภาษาอังกฤษ ระดับอาชีวศึกษาจังหวัดชลบุรี",
-    "line_no": 156
+    "category": "No category",
+    "question": "What can you say about Winner of the English Public Speaking Contest, School Level, Sattahip Technical College?",
+    "answer": "Winner of the English Public Speaking Contest, School Level, Sattahip Technical College is listed as one of the portfolio skills. Details: รางวัลชนะเลิศ English Public Speaking Contest ระดับสถานศึกษา วิทยาลัยเทคนิคสัตหีบ. Associated location: Thai-Austrian Technical College. Date: 2020-12-08 00:00:00.",
+    "line_no": 132
   },
   {
     "id": 31,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"ชนะเลิศ การแข่งขันพูดสุนทรพจน์ภาษาอังกฤษ ระดับสถานศึกษา วิทยาลัยเทคนิคสัตหีบ\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลชนะเลิศจากการแข่งขันพูดสุนทรพจน์ภาษาอังกฤษ ระดับสถานศึกษา วิทยาลัยเทคนิคสัตหีบ",
-    "line_no": 162
+    "category": "No category",
+    "question": "What can you say about 1st Runner-Up of the English Demonstration Contest, Vocational Education Level, Chonburi Province?",
+    "answer": "1st Runner-Up of the English Demonstration Contest, Vocational Education Level, Chonburi Province is listed as one of the portfolio skills. Details: รางวัลรองชนะเลิศอันดับ 1 English Demonstration Contest ระดับอาชีวศึกษา จังหวัดชลบุรี. Associated location: Pattaya Technical College. Date: 2021-12-14 00:00:00.",
+    "line_no": 136
   },
   {
     "id": 32,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"รองชนะเลิศอันดับ 1 การแข่งขันสาธิตเป็นภาษาอังกฤษ ระดับอาชีวศึกษาจังหวัดชลบุรี\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลรองชนะเลิศอันดับ 1 จากการแข่งขันสาธิตเป็นภาษาอังกฤษ ระดับอาชีวศึกษาจังหวัดชลบุรี",
-    "line_no": 168
+    "category": "No category",
+    "question": "What can you say about Winner of the English Public Speaking Contest, School Level, Thai-Austrian Technical College?",
+    "answer": "Winner of the English Public Speaking Contest, School Level, Thai-Austrian Technical College is listed as one of the portfolio skills. Details: รางวัลชนะเลิศ การแข่งขันทักษะการประกวดพูดในที่สาธารณะเป็นภาษาอังกฤษ. Associated location: Thai-Austrian Technical College. Date: 2021-11-30 00:00:00.",
+    "line_no": 140
   },
   {
     "id": 33,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"ชนะเลิศ การแข่งขันทักษะพูดในที่สาธารณะเป็นภาษาอังกฤษ ระดับสถานศึกษา วิทยาลัยเทคนิคไทย-ออสเตรียน\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลชนะเลิศจากการแข่งขันทักษะพูดในที่สาธารณะเป็นภาษาอังกฤษ ระดับสถานศึกษา",
-    "line_no": 174
+    "category": "No category",
+    "question": "What can you say about Scored 690 out of 990 on the Test of English for International Communication (TOEIC)?",
+    "answer": "Scored 690 out of 990 on the Test of English for International Communication (TOEIC) is listed as one of the portfolio skills. Associated location: Thai-Austrian Technical College. Date: 2023-09-17 00:00:00.",
+    "line_no": 144
   },
   {
     "id": 34,
-    "category": "ผลงานและรางวัล",
-    "question": "ผลคะแนน TOEIC เป็นอย่างไร",
-    "answer": "สอบ TOEIC ได้ 690 คะแนน จากคะแนนเต็ม 990",
-    "line_no": 180
+    "category": "No category",
+    "question": "What can you say about Demonstrates excellent leadership qualities and military demeanor, Thai Reserve Officer Training Corps Student in the Third Year?",
+    "answer": "Demonstrates excellent leadership qualities and military demeanor, Thai Reserve Officer Training Corps Student in the Third Year is listed as one of the portfolio skills. Details: Leadership Experience from Military Student Training Program (Year 3).",
+    "line_no": 148
   },
   {
     "id": 35,
-    "category": "ผลงานและรางวัล",
-    "question": "ประสบการณ์การเป็นนักศึกษาวิชาทหาร (รด.) ชั้นปีที่ 3 เป็นอย่างไร",
-    "answer": "ผ่านการฝึกภาวะผู้นำจากโครงการฝึกนักศึกษาวิชาทหาร ชั้นปีที่ 3 ที่โรงเรียนทหารป้องกันภัยทางอากาศและรักษาฝั่ง (กองทัพไทย) ทำหน้าที่หัวหน้าหมวดนักศึกษาวิชาทหารทั้งภาคทฤษฎีและภาคสนาม 7 วัน รับผิดชอบสั่งการ ประสานงาน รายงานครูฝึก จัดเวรยาม รักษาระเบียบวินัย และตัดสินใจในสถานการณ์กดดัน ประสบการณ์นี้ช่วยเสริมทักษะภาวะผู้นำ การสื่อสารที่ชัดเจน การบริหารเวลา และการตัดสินใจภายใต้แรงกดดัน",
-    "line_no": 186
+    "category": "No category",
+    "question": "What can you say about Master of Ceremonies for the Wai Khru Ceremony for the Academic Year 2023?",
+    "answer": "Master of Ceremonies for the Wai Khru Ceremony for the Academic Year 2023 is listed as one of the portfolio skills. Details: พิธีกรในพิธีไหว้ครู ปีการศึกษา 2566. Associated location: Thai-Austrian Technical College. Date: 2023-06-07 00:00:00.",
+    "line_no": 156
   },
   {
     "id": 36,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"ชนะเลิศ การประกวดคลิปวิดีโอ TikTok โครงการไม่สูบ ลดเสี่ยง เลี่ยงยาเสพติด\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลชนะเลิศจากการประกวดคลิปวิดีโอ TikTok ภายใต้โครงการ \"ไม่สูบ ลดเสี่ยง เลี่ยงยาเสพติด\"",
-    "line_no": 191
+    "category": "No category",
+    "question": "What can you say about Provided academic guidance and introduced the department to visiting students during the Thai-Austrian Tech Open House 2022?",
+    "answer": "Provided academic guidance and introduced the department to visiting students during the Thai-Austrian Tech Open House 2022 is listed as one of the portfolio skills. Details: เป็นผู้แนะแนวให้ความรู้แผนกวิชา ให้กับน้องๆที่เข้ามาดูงานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022. Associated location: Thai-Austrian Technical College. Date: 2022-11-22 00:00:00.",
+    "line_no": 160
   },
   {
     "id": 37,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"รองชนะเลิศ การแข่งขันพูดภาษาอังกฤษ หัวข้อ Start-up in the New Normal\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลรองชนะเลิศจากการแข่งขันทักษะพูดภาษาอังกฤษ ในหัวข้อ \"Start-up in the New Normal\"",
-    "line_no": 197
+    "category": "No category",
+    "question": "What can you say about Attended a training program titled 'No Smoking, Less Risk, Say No to Drugs' aimed at promoting healthy, drug-free lifestyles.?",
+    "answer": "Attended a training program titled 'No Smoking, Less Risk, Say No to Drugs' aimed at promoting healthy, drug-free lifestyles. is listed as one of the portfolio skills. Details: เข้าร่วมการอบรม โครงการ ไม่สูบ ลดเสี่ยง เลี่ยงยาเสพติด. Associated location: Thai-Austrian Technical College. Date: 2022-10-28 00:00:00.",
+    "line_no": 164
   },
   {
     "id": 38,
-    "category": "ผลงานและรางวัล",
-    "question": "รางวัล \"ชมเชย (เหรียญทองแดง) การประกวดสิ่งประดิษฐ์คนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี\" ได้มาอย่างไร",
-    "answer": "ได้รับรางวัลชมเชยระดับเหรียญทองแดง จากการประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ที่วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์ (ชลบุรี) โดยรับหน้าที่เป็นผู้บรรยายผลงานสิ่งประดิษฐ์เป็นภาษาอังกฤษ",
-    "line_no": 203
+    "category": "No category",
+    "question": "What can you say about Awarded First Place in the TikTok Video Competition under the 'No Smoking, Less Risk, Say No to Drugs' Project.?",
+    "answer": "Awarded First Place in the TikTok Video Competition under the 'No Smoking, Less Risk, Say No to Drugs' Project. is listed as one of the portfolio skills. Details: รางวัลชนะเลิศ ประกวดคลิปวิดีโอ TikTok โครงการไม่สูบ ลดเสี่ยง เลี่ยงยาเสพติด. Associated location: Thai-Austrian Technical College. Date: 2022-10-28 00:00:00.",
+    "line_no": 168
   },
   {
     "id": 39,
-    "category": "ผลงานและรางวัล",
-    "question": "ทุนการศึกษาเรียนดี เกรดเฉลี่ย 4.00 ได้มาอย่างไร",
-    "answer": "ได้รับทุนการศึกษานักศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567",
-    "line_no": 209
+    "category": "No category",
+    "question": "What can you say about Awarded Second Place in the English Public Speaking Competition on the theme 'Start-up in the New Normal?",
+    "answer": "Awarded Second Place in the English Public Speaking Competition on the theme 'Start-up in the New Normal is listed as one of the portfolio skills. Details: รางวัลรองชนะเลิศ การแข่งขันทักษะพูดภาษาอังกฤษ ในหัวข้อ Start-up in the new normal. Associated location: Thai-Austrian Technical College. Date: 2022-10-25 00:00:00.",
+    "line_no": 172
   },
   {
     "id": 40,
-    "category": "ผลงานและรางวัล",
-    "question": "ทุนส่งเสริมผู้เรียนดี เนื่องในวันคล้ายวันสถาปนากองการฝึก กองเรือยุทธการ ได้มาอย่างไร",
-    "answer": "ได้รับทุนส่งเสริมผู้มีผลการเรียนดี เนื่องในวันคล้ายวันสถาปนากองการฝึก กองเรือยุทธการ",
-    "line_no": 214
+    "category": "No category",
+    "question": "What can you say about Served as the Master of Ceremonies for the Wai Khru Ceremony in the academic year 2022.?",
+    "answer": "Served as the Master of Ceremonies for the Wai Khru Ceremony in the academic year 2022. is listed as one of the portfolio skills. Details: เป็นพิธีกร กิจกรรม พิธีไหว้ครู 2565. Associated location: Thai-Austrian Technical College. Date: 2022-06-17 00:00:00.",
+    "line_no": 176
   },
   {
     "id": 41,
-    "category": "ผลงานและรางวัล",
-    "question": "ประสบการณ์การแข่งขัน ICPC 2025 เป็นอย่างไร",
-    "answer": "ได้รับคัดเลือกเป็นตัวแทนมหาวิทยาลัยเข้าแข่งขัน ICPC (International Collegiate Programming Contest) แข่งกับทีมจาก 26 สถาบันทั่วประเทศ รับผิดชอบหลักคือแปลโจทย์ภาษาอังกฤษเป็นภาษาไทยแบบเรียลไทม์ ช่วยให้เพื่อนร่วมทีมเข้าใจโจทย์ชัดเจนและมุ่งเน้นการออกแบบอัลกอริทึมได้เต็มที่ ทำให้ทีมแก้โจทย์ได้มีประสิทธิภาพมากขึ้นภายใต้เวลาจำกัด",
-    "line_no": 219
+    "category": "No category",
+    "question": "What can you say about Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention?",
+    "answer": "Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention is listed as one of the portfolio skills. Details: รางวัลชมเชย ระดับเหรียญทองแดง การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ณ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี) ซึ่งได้รับหน้าที่ผู้บรรยายสิ่งประดิษฐ์เป็นภาษาอังกฤษ. Associated location: Science-Based Technology Vocational College (Chonburi). Date: 2021-03-22 00:00:00.",
+    "line_no": 180
   },
   {
     "id": 42,
-    "category": "ผลงานและรางวัล",
-    "question": "ประสบการณ์การแข่งขัน TESA TOP GUN 2025 เป็นอย่างไร",
-    "answer": "เป็นตัวแทนมหาวิทยาลัยเข้าแข่งขัน TESA TOP GUN 2025 (9-15 พฤศจิกายน 2568) หัวข้อนวัตกรรมด้านการป้องกันประเทศ แข่งกับ 69 ทีมจาก 38 มหาวิทยาลัยทั่วประเทศ รับผิดชอบพัฒนาระบบตรวจจับโดรนแบบเรียลไทม์ พร้อมระบุพิกัด/ระดับความสูง และติดตามเป้าหมาย เพื่อส่งข้อมูลไปแสดงผลบน Dashboard ทีมได้รับรางวัล Top Score on Presentation และ Top Score on Battle Fields Integration ซึ่งเป็นความภาคภูมิใจอย่างยิ่ง",
-    "line_no": 224
+    "category": "No category",
+    "question": "What can you say about Pollanwser.org app?",
+    "answer": "Pollanwser.org app is listed as one of the portfolio skills. Details: Project Description:",
+    "line_no": 184
   },
   {
     "id": 43,
-    "category": "กิจกรรม",
-    "question": "เคยทำกิจกรรมอะไรมาบ้าง",
-    "answer": "เคยทำกิจกรรมหลากหลายทั้งในรั้วสถานศึกษาและมหาวิทยาลัย เช่น เป็นพิธีกรงานเปิดบ้านวิชาการและงานไหว้ครูหลายครั้ง เป็นตัวแทนนำเสนอข้อมูลแผนกให้แขกสำคัญทั้งชาวไทยและชาวต่างชาติ (เอกอัครราชทูตออสเตรีย, การเยี่ยมชมสัตหีบโมเดล) เป็นผู้แนะแนวการศึกษาให้รุ่นน้อง ดำรงตำแหน่งรองประธานแผนกคอมพิวเตอร์และประธานเชียร์ เข้าร่วมโครงการรณรงค์ต่อต้านยาเสพติด และคว้าตำแหน่งชนะเลิศ/รองชนะเลิศในการประกวด RMUTT Freshy Boy ระดับมหาวิทยาลัย",
-    "line_no": 232
+    "category": "No category",
+    "question": "What can you say about Flutter News App?",
+    "answer": "Flutter News App is listed as one of the portfolio skills. Details: A news application that fetches data from an API and includes a bookmark system to save articles, demonstrating state management in Flutter.",
+    "line_no": 196
   },
   {
     "id": 44,
-    "category": "กิจกรรม",
-    "question": "เคยเป็นพิธีกรงานอะไรบ้าง",
-    "answer": "เคยเป็นพิธีกร 3 งานหลัก คือ งานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022 (2565), พิธีไหว้ครูปีการศึกษา 2565 (2565) และพิธีไหว้ครูปีการศึกษา 2566 (2566) ทั้งหมดจัดขึ้นที่วิทยาลัยเทคนิคไทย-ออสเตรียน",
-    "line_no": 236
+    "category": "No category",
+    "question": "What can you say about Flutter Space Shooter mobile game?",
+    "answer": "Flutter Space Shooter mobile game is listed as one of the portfolio skills. Details: A simple 2D game built in Flutter, demonstrating game development concepts and animations.. Associated location: Bangkok, Thailand. Date: 2024-01-28 00:00:00.",
+    "line_no": 203
   },
   {
     "id": 45,
-    "category": "กิจกรรม",
-    "question": "เคยเป็นตัวแทนต้อนรับหรือนำเสนอข้อมูลให้แขกสำคัญไหม",
-    "answer": "เคยเป็นตัวแทนนำเสนอข้อมูล 3 ครั้ง ได้แก่ นำเสนอข้อมูลแผนกคอมพิวเตอร์เป็นภาษาอังกฤษต้อนรับเอกอัครราชทูตออสเตรีย (2565), นำเสนอข้อมูลแผนกอุตสาหกรรมดิจิทัลในพิธีเยี่ยมชมสัตหีบโมเดล นำโดย ดร.ธนะกร วังบุญคงชนะ (2566) และนำเสนอนิทรรศการ \"การพัฒนาศักยภาพคนตลอดช่วงชีวิตฯ\" (2566)",
-    "line_no": 240
+    "category": "No category",
+    "question": "What can you say about Angular Online Poll App?",
+    "answer": "Angular Online Poll App is listed as one of the portfolio skills. Details: A simple yet functional polling/voting application built with Angular. This project demonstrates the use of forms, event handling, and state management. It interacts with a backend service developed using Java Spring Boot via API calls. The user interface is styled with Tailwind CSS and DaisyUI, providing a clean and modern look.. Associated location: Bangkok, Thailand. Date: 2024-01-28 00:00:00.",
+    "line_no": 207
   },
   {
     "id": 46,
-    "category": "กิจกรรม",
-    "question": "เคยดำรงตำแหน่งหรือมีบทบาทผู้นำอะไรบ้าง",
-    "answer": "เคยดำรงตำแหน่งรองประธานแผนกคอมพิวเตอร์และประธานเชียร์ที่วิทยาลัยเทคนิคไทย-ออสเตรียน (2564) นอกจากนี้ยังได้รับตำแหน่งชนะเลิศ RMUTT Engineering Freshy Boy และรองชนะเลิศอันดับ 1 RMUTT Freshy Boy ระดับมหาวิทยาลัย ซึ่งสะท้อนถึงบุคลิกภาพ ความมั่นใจ และการมีส่วนร่วมในกิจกรรมมหาวิทยาลัย",
-    "line_no": 244
+    "category": "No category",
+    "question": "What can you say about Winner of RMUTT Engineering Freshy Boy 2024?",
+    "answer": "Winner of RMUTT Engineering Freshy Boy 2024 is listed as one of the portfolio skills. Details: Awarded first place in the Engineering Freshy Boy 2024 contest at Rajamangala University of Technology Thanyaburi (RMUTT). This competition recognizes outstanding new students in the Faculty of Engineering based on criteria such as personality, confidence, communication skills, and overall performance during university activities. Winning this title reflects both leadership potential and a strong presence within the student community.. Associated location: RMUTT. Date: 2027-07-26 00:00:00.",
+    "line_no": 211
   },
   {
     "id": 47,
-    "category": "กิจกรรม",
-    "question": "บทบาทในงาน \"พิธีกร Thai-Austrian Tech Open House 2022\" เป็นอย่างไร",
-    "answer": "ทำหน้าที่พิธีกรในงานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022",
-    "line_no": 248
+    "category": "No category",
+    "question": "What can you say about 1st Runner-up, RMUTT Freshy Boy 2024?",
+    "answer": "1st Runner-up, RMUTT Freshy Boy 2024 is listed as one of the portfolio skills. Details: Achieved first runner-up in the RMUTT Freshy Boy 2024 contest at the university level. This competition celebrates outstanding first-year students across all faculties at Rajamangala University of Technology Thanyaburi (RMUTT), with a focus on personality, confidence, public speaking, and campus involvement. Being awarded this position reflects strong interpersonal skills and active participation in university life.. Associated location: RMUTT. Date: 2024-08-16 00:00:00.",
+    "line_no": 215
   },
   {
     "id": 48,
-    "category": "กิจกรรม",
-    "question": "บทบาทในการนำเสนอข้อมูลแผนกอุตสาหกรรมดิจิทัลระหว่างการเยี่ยมชม \"สัตหีบโมเดล\" เป็นอย่างไร",
-    "answer": "เป็นตัวแทนนำเสนอข้อมูลแผนกอุตสาหกรรมดิจิทัล ในพิธีเยี่ยมชมสัตหีบโมเดล นำโดย ดร.ธนะกร วังบุญคงชนะ",
-    "line_no": 254
+    "category": "No category",
+    "question": "What can you say about Node.js?",
+    "answer": "Node.js is listed as one of the portfolio skills. Date: 2025-05-27 00:00:00.",
+    "line_no": 219
   },
   {
     "id": 49,
-    "category": "กิจกรรม",
-    "question": "บทบาทในการนำเสนอนิทรรศการ \"การพัฒนาศักยภาพคนตลอดช่วงชีวิตฯ\" เป็นอย่างไร",
-    "answer": "นำเสนอนิทรรศการ \"การพัฒนาศักยภาพคนตลอดช่วงชีวิต การผลิตและพัฒนากำลังคนอาชีวศึกษาสมรรถนะสูง\"",
-    "line_no": 260
+    "category": "No category",
+    "question": "What can you say about Express.js?",
+    "answer": "Express.js is listed as one of the portfolio skills. Date: 2025-05-27 00:00:00.",
+    "line_no": 223
   },
   {
     "id": 50,
-    "category": "กิจกรรม",
-    "question": "บทบาทในการนำเสนอข้อมูลแผนกคอมพิวเตอร์เป็นภาษาอังกฤษต้อนรับเอกอัครราชทูตออสเตรียเป็นอย่างไร",
-    "answer": "เป็นตัวแทนนำเสนอข้อมูลแผนกคอมพิวเตอร์เป็นภาษาอังกฤษ ในพิธีเยี่ยมชมของเอกอัครราชทูตออสเตรีย",
-    "line_no": 266
+    "category": "No category",
+    "question": "What can you say about Global Capstone Design Project 2025 (Workshop 1)?",
+    "answer": "Global Capstone Design Project 2025 (Workshop 1) is listed as one of the portfolio skills. Details: The GCDP is a collaborative effort between institutions of Yeungnam University (YU) in South Korea and Rajamangala University of Technology Thanyaburi (RMUTT) in Thailand. These universities have jointly conducted short-term exchange programs under the GCDP framework, allowing students to work together on projects that address real-world challenges.",
+    "line_no": 227
   },
   {
     "id": 51,
-    "category": "กิจกรรม",
-    "question": "บทบาทในการแนะแนวการศึกษาต่อให้นักเรียนมัธยมต้นเป็นอย่างไร",
-    "answer": "แนะแนวและให้ความรู้เรื่องการศึกษาต่อแก่นักเรียนระดับมัธยมศึกษาตอนต้น",
-    "line_no": 272
+    "category": "No category",
+    "question": "What can you say about Vending Machine GUI Application (Python, PySimpleGUI)?",
+    "answer": "Vending Machine GUI Application (Python, PySimpleGUI) is listed as one of the portfolio skills. Details: This project is a graphical vending machine simulator built with Python and PySimpleGUI. Users can browse products, add items to a virtual basket, and proceed through a simulated checkout process, including cash insertion and change calculation. The application features dynamic image resizing, real-time basket updates, and purchase logging to both text and CSV files. It demonstrates practical use of GUI design, file I/O, and state management in Python.",
+    "line_no": 237
   },
   {
     "id": 52,
-    "category": "กิจกรรม",
-    "question": "บทบาท \"รองประธานแผนกคอมพิวเตอร์และประธานเชียร์\" เป็นอย่างไร",
-    "answer": "ดำรงตำแหน่งรองประธานแผนกคอมพิวเตอร์ และประธานเชียร์",
-    "line_no": 278
+    "category": "No category",
+    "question": "What can you say about My Portfolio Website?",
+    "answer": "My Portfolio Website is listed as one of the portfolio skills. Details: Phanlop's portfolio website is a dynamic and interactive platform designed to showcase my skills, projects, achievements, internships, academic activities, and education. It combines modern design, responsive layouts, and backend functionality to provide a seamless user experience. Here's a brief overview of the features:",
+    "line_no": 253
   },
   {
     "id": 53,
-    "category": "กิจกรรม",
-    "question": "บทบาทพิธีกรงานไหว้ครู ปีการศึกษา 2566 เป็นอย่างไร",
-    "answer": "ทำหน้าที่พิธีกรในพิธีไหว้ครู ปีการศึกษา 2566",
-    "line_no": 284
+    "category": "No category",
+    "question": "What can you say about React Online Shopping App?",
+    "answer": "React Online Shopping App is listed as one of the portfolio skills. Details: This project is a React-based shopping cart application designed to practice and demonstrate the use of Redux for state management. It includes a reducer, productReducer, which manages the application's state related to cart items and total price. Key features include:",
+    "line_no": 303
   },
   {
     "id": 54,
-    "category": "กิจกรรม",
-    "question": "บทบาทแนะแนวและให้ความรู้แผนกวิชาในงาน Open House 2022 เป็นอย่างไร",
-    "answer": "เป็นผู้แนะแนวให้ความรู้แผนกวิชาแก่นักเรียนที่มาเยี่ยมชมงานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022",
-    "line_no": 290
+    "category": "No category",
+    "question": "What can you say about Awarded Academic Excellence Scholarship for achieving a 4.00 GPA in Semester 2, Academic Year 2024?",
+    "answer": "Awarded Academic Excellence Scholarship for achieving a 4.00 GPA in Semester 2, Academic Year 2024 is listed as one of the portfolio skills. Details: ได้รับทุนการศึกษานักศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567. Associated location: RMUTT. Date: 2025-06-23 00:00:00.",
+    "line_no": 318
   },
   {
     "id": 55,
-    "category": "กิจกรรม",
-    "question": "การเข้าร่วมโครงการ \"ไม่สูบ ลดเสี่ยง เลี่ยงยาเสพติด\" เป็นอย่างไร",
-    "answer": "เข้าร่วมการอบรมโครงการ \"ไม่สูบ ลดเสี่ยง เลี่ยงยาเสพติด\"",
-    "line_no": 296
+    "category": "No category",
+    "question": "What can you say about Awarded Academic Excellence Scholarship in commemoration of the Naval Training Command Foundation Day, Royal Thai Fleet?",
+    "answer": "Awarded Academic Excellence Scholarship in commemoration of the Naval Training Command Foundation Day, Royal Thai Fleet is listed as one of the portfolio skills. Details: ได้รับทุนส่งเสริมผู้มีการเรียนดี เนื่องในวันคล้ายวันสถาปนา กองการฝึก กองเรือยุทธการ. Associated location: Royal Thai Fleet, Sattahip, Chonburi. Date: 2025-06-19 00:00:00.",
+    "line_no": 322
   },
   {
     "id": 56,
-    "category": "กิจกรรม",
-    "question": "บทบาทพิธีกรงานไหว้ครู ปีการศึกษา 2565 เป็นอย่างไร",
-    "answer": "ทำหน้าที่พิธีกรในกิจกรรมพิธีไหว้ครู ปีการศึกษา 2565",
-    "line_no": 301
+    "category": "No category",
+    "question": "What can you say about Global Capstone Design Project 2025 (Workshop 2)?",
+    "answer": "Global Capstone Design Project 2025 (Workshop 2) is listed as one of the portfolio skills. Details: The GCDP is a collaborative effort between institutions of Yeungnam University (YU) in South Korea and Rajamangala University of Technology Thanyaburi (RMUTT) in Thailand. These universities have jointly conducted short-term exchange programs under the GCDP framework, allowing students to work together on projects that address real-world challenges.",
+    "line_no": 326
   },
   {
     "id": 57,
-    "category": "กิจกรรม",
-    "question": "รางวัลชนะเลิศ \"RMUTT Engineering Freshy Boy 2024\" ได้มาอย่างไร",
-    "answer": "ได้รับตำแหน่งชนะเลิศ Engineering Freshy Boy 2024 ของคณะวิศวกรรมศาสตร์ มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี (RMUTT) ซึ่งพิจารณาจากบุคลิกภาพ ความมั่นใจ ทักษะการสื่อสาร และการมีส่วนร่วมในกิจกรรมมหาวิทยาลัย สะท้อนถึงศักยภาพความเป็นผู้นำและการเป็นที่ยอมรับในหมู่นักศึกษา",
-    "line_no": 307
-  },
-  {
-    "id": 58,
-    "category": "กิจกรรม",
-    "question": "รางวัลรองชนะเลิศอันดับ 1 \"RMUTT Freshy Boy 2024\" ได้มาอย่างไร",
-    "answer": "ได้รับตำแหน่งรองชนะเลิศอันดับ 1 ในการประกวด RMUTT Freshy Boy 2024 ระดับมหาวิทยาลัย ซึ่งเปิดกว้างให้นักศึกษาปีหนึ่งจากทุกคณะ พิจารณาจากบุคลิกภาพ ความมั่นใจ การพูดในที่สาธารณะ และการมีส่วนร่วมในรั้วมหาวิทยาลัย สะท้อนถึงทักษะมนุษยสัมพันธ์และการมีส่วนร่วมในชีวิตนักศึกษา",
-    "line_no": 312
-  },
-  {
-    "id": 59,
-    "category": "โปรเจกต์",
-    "question": "ทำโปรเจกต์หรือชิ้นงานอะไรมาบ้าง",
-    "answer": "ทำโปรเจกต์มาแล้วหลากหลายรูปแบบ ครอบคลุมเว็บแอปพลิเคชัน (ระบบจัดการฝึกงาน ระบบร้านค้าปลีก เว็บโพล เว็บช้อปปิ้ง เว็บไซต์ท่องเที่ยว Thaivel) แอปมือถือด้วย Flutter (แอปข่าว เกม 2 มิติ) ระบบ IoT (Air Monitor Pro ตรวจวัดคุณภาพอากาศ) โปรแกรม Python (ตู้ขายสินค้าจำลอง) รวมถึงโครงการนานาชาติร่วมกับมหาวิทยาลัย Yeungnam ประเทศเกาหลีใต้ (Global Capstone Design Project) และเว็บไซต์พอร์ตโฟลิโอส่วนตัว",
-    "line_no": 320
-  },
-  {
-    "id": 60,
-    "category": "โปรเจกต์",
-    "question": "มีโปรเจกต์เกี่ยวกับการพัฒนาเว็บไซต์อะไรบ้าง",
-    "answer": "มีโปรเจกต์เว็บไซต์หลายชิ้น ได้แก่ ระบบบริหารจัดการฝึกงานนักศึกษา (ปวส.), เว็บไซต์แผนกไอทีของวิทยาลัย (ปวช.), ระบบร้านค้าปลีกแบบครบวงจร, เว็บแอปโพล Pollanwser.org (React + Spring Boot), เว็บช้อปปิ้งด้วย React และ Redux, เว็บโพลด้วย Angular และเว็บไซต์ท่องเที่ยว Thaivel ที่ผสาน AI ผู้ช่วยนักท่องเที่ยว",
-    "line_no": 324
-  },
-  {
-    "id": 61,
-    "category": "โปรเจกต์",
-    "question": "มีโปรเจกต์แอปพลิเคชันมือถือหรือ Flutter อะไรบ้าง",
-    "answer": "มีโปรเจกต์ Flutter 2 ชิ้น คือ Flutter News App แอปข่าวที่ดึงข้อมูลจาก API พร้อมระบบบุ๊กมาร์กบทความ และ Flutter Space Shooter เกม 2 มิติแนวยิงยานอวกาศที่สาธิตแนวคิดการพัฒนาเกมและอนิเมชัน",
-    "line_no": 328
-  },
-  {
-    "id": 62,
-    "category": "โปรเจกต์",
-    "question": "มีโปรเจกต์เกี่ยวกับ IoT หรือฮาร์ดแวร์อะไรบ้าง",
-    "answer": "มีโปรเจกต์ Air Monitor Pro ระบบ IoT ตรวจวัดคุณภาพอากาศแบบเรียลไทม์สำหรับโกดัง ห้องแล็บ และโรงงาน ใช้ ESP32, เซนเซอร์ DHT22 และ Sharp GP2Y1010AU0F ร่วมกับแดชบอร์ด Next.js และ MongoDB นอกจากนี้ยังมีระบบตรวจจับโดรนที่พัฒนาในการแข่งขัน TESA TOP GUN 2025",
-    "line_no": 332
-  },
-  {
-    "id": 63,
-    "category": "โปรเจกต์",
-    "question": "มีโปรเจกต์ที่ทำงานร่วมกับต่างประเทศไหม",
-    "answer": "มีโครงการ Global Capstone Design Project (GCDP) 2 เวิร์กช็อป ร่วมกับมหาวิทยาลัย Yeungnam ประเทศเกาหลีใต้ และมหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี เป็นโปรแกรมแลกเปลี่ยนระยะสั้นที่ให้นักศึกษานานาชาติร่วมกันออกแบบ Smart Bin System ระบบคัดแยกขยะอัจฉริยะด้วยเซนเซอร์และ AI",
+    "category": "No category",
+    "question": "What can you say about ICPC 2025 Competition?",
+    "answer": "ICPC 2025 Competition is listed as one of the portfolio skills. Details: Selected to represent the university in the ICPC International Collegiate Programming Contest, competing against teams from 26 institutions across the country. My key responsibility was to translate all English problem statements into Thai in real-time. This crucial communication role ensured clear understanding for my teammates, enabling them to focus their energy entirely on algorithm design and execution, thereby increasing our overall problem-solving efficiency under intense time pressure.",
     "line_no": 336
   },
   {
-    "id": 64,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์จบการศึกษา (ระดับ ปวส. สาขาพัฒนาซอฟต์แวร์) เกี่ยวกับอะไร",
-    "answer": "พัฒนาระบบบริหารจัดการการฝึกงานของนักศึกษาให้กับวิทยาลัยเทคนิคไทย-ออสเตรียน ด้วย HTML, CSS, JavaScript, PHP, Bootstrap 5 และ SQL ใช้เวลาพัฒนา 4 เดือน จัดการข้อมูลจำนวนมากของนักศึกษา อาจารย์ และเจ้าหน้าที่ ส่วนที่ท้าทายที่สุดคือระบบสร้างเอกสารราชการให้ใกล้เคียงเอกสารจริง ต้องสัมภาษณ์เจ้าหน้าที่เพื่อเข้าใจกระบวนการฝึกงาน และจัดทำคู่มือการใช้งานทั้งฝั่งผู้ดูแลระบบและนักศึกษา",
-    "line_no": 340
+    "id": 58,
+    "category": "No category",
+    "question": "What can you say about TESA TOP GUN 2025?",
+    "answer": "TESA TOP GUN 2025 is listed as one of the portfolio skills. Details: Represented the university at the TESA TOP GUN 2025 competition (November 9–15, 2025), which focused on Defense Innovation. Competing against 69 teams from 38 universities nationwide, I was responsible for developing the drone detection system capable of real-time detection, coordinate/altitude identification, and tracking. Our team was awarded Top Score on Presentation and Top Score on Battle Fields Integration—a significant achievement.",
+    "line_no": 342
   },
   {
-    "id": 65,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์กลุ่ม \"ระบบร้านค้าปลีก\" เกี่ยวกับอะไร",
-    "answer": "พัฒนาเว็บแอปพลิเคชันสำหรับร้านค้าปลีกแบบครบวงจร ด้วย HTML, CSS, JavaScript, PHP, Bootstrap 5 และ SQL ครอบคลุมตั้งแต่การออกแบบระบบด้วย ER Diagram และ Data Flow Diagram การบริหารโครงการด้วย Gantt Chart และแบ่งหน้าที่ในทีมชัดเจน ไปจนถึงการพัฒนาทั้งฝั่งฟรอนต์เอนด์และแบ็กเอนด์ ทำเสร็จภายในไม่กี่สัปดาห์ สะท้อนทักษะการพัฒนาแบบฟูลสแตกและการวางแผนโครงการ",
-    "line_no": 345
+    "id": 59,
+    "category": "No category",
+    "question": "What can you say about JavaScript?",
+    "answer": "JavaScript is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 348
   },
   {
-    "id": 66,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์จบการศึกษา (ระดับ ปวช. สาขาพัฒนาซอฟต์แวร์) เกี่ยวกับอะไร",
-    "answer": "พัฒนาเว็บไซต์ฝึกงานและเว็บไซต์ประจำแผนกเทคโนโลยีคอมพิวเตอร์ ให้กับวิทยาลัยเทคนิคไทย-ออสเตรียน",
-    "line_no": 350
+    "id": 60,
+    "category": "No category",
+    "question": "What can you say about MySQL?",
+    "answer": "MySQL is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 352
   },
   {
-    "id": 67,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ Global Capstone Design Project 2025 (Workshop 1) เกี่ยวกับอะไร",
-    "answer": "ร่วมมือกับนักศึกษานานาชาติแก้ปัญหาสิ่งแวดล้อมจริงด้วยแนวคิด Design Thinking และ Engineering Design ระดมความคิดพัฒนา Smart Bin System ระบบถังขยะที่รู้จำและคัดแยกประเภทขยะ (พลาสติก โลหะ อินทรีย์) ด้วยเซนเซอร์และเทคนิคการจำแนกด้วย AI ออกแบบระบบให้รางวัลเป็นคูปองดิจิทัลเพื่อจูงใจผู้ใช้ให้รักษ์สิ่งแวดล้อม พร้อมทั้งเสริมทักษะการทำงานเป็นทีมข้ามวัฒนธรรมและการออกแบบผลิตภัณฑ์เบื้องต้น เป็นความร่วมมือระหว่างมหาวิทยาลัย Yeungnam (เกาหลีใต้) และ RMUTT",
-    "line_no": 355
+    "id": 61,
+    "category": "No category",
+    "question": "What can you say about VS Code?",
+    "answer": "VS Code is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 356
   },
   {
-    "id": 68,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ \"Vending Machine GUI Application\" (Python, PySimpleGUI) เกี่ยวกับอะไร",
-    "answer": "แอปพลิเคชันจำลองตู้ขายสินค้าอัตโนมัติ พัฒนาด้วย Python และ PySimpleGUI ผู้ใช้สามารถเลือกสินค้า ใส่ตะกร้า และจำลองขั้นตอนชำระเงินพร้อมคำนวณเงินทอนเป็นสกุลเงินบาท มีระบบปรับขนาดรูปภาพอัตโนมัติ อัปเดตตะกร้าแบบเรียลไทม์ บันทึกประวัติการซื้อลงไฟล์ข้อความและ CSV และรองรับการนำทางหลายหน้าจอ (เลือกสินค้า ตะกร้า ชำระเงิน หน้าสำเร็จ)",
+    "id": 62,
+    "category": "No category",
+    "question": "What can you say about Arduino IDE?",
+    "answer": "Arduino IDE is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
     "line_no": 360
   },
   {
-    "id": 69,
-    "category": "โปรเจกต์",
-    "question": "เว็บไซต์ Portfolio ส่วนตัวเกี่ยวกับอะไร มีฟีเจอร์อะไรบ้าง",
-    "answer": "เว็บไซต์พอร์ตโฟลิโอส่วนตัวที่ออกแบบให้ทันสมัย โต้ตอบได้ และรองรับทุกอุปกรณ์ ใช้แสดงทักษะ โปรเจกต์ ผลงาน ประสบการณ์ฝึกงาน กิจกรรม และประวัติการศึกษา ฝั่งหน้าเว็บมีหน้าแรกพร้อมอนิเมชัน หน้ารายละเอียดผลงานพร้อมแกลเลอรีรูปภาพ และระบบล็อกอินด้วย JWT ฝั่งหลังบ้านมีแดชบอร์ดจัดการข้อมูลผลงานพร้อมตาราง แบ่งหน้า และฟิลเตอร์ รองรับการสร้าง/แก้ไขผลงานและแกลเลอรี และจัดการประเภททักษะ พัฒนาด้วย React, Node.js และ Express.js",
-    "line_no": 366
+    "id": 63,
+    "category": "No category",
+    "question": "What can you say about PlatformIO?",
+    "answer": "PlatformIO is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 364
   },
   {
-    "id": 70,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ \"React Online Shopping App\" เกี่ยวกับอะไร",
-    "answer": "แอปพลิเคชันตะกร้าสินค้าด้วย React สำหรับฝึกใช้งาน Redux ในการจัดการสถานะแอป มี reducer ชื่อ productReducer ควบคุมข้อมูลสินค้าในตะกร้าและราคารวม รองรับการเพิ่ม/ลบสินค้า ลดจำนวนสินค้า ล้างตะกร้า และอัปเดตราคารวมแบบไดนามิก เป็นโปรเจกต์ฝึกฝนแนวคิด Redux actions, reducers และการอัปเดตสถานะแบบ immutable",
-    "line_no": 371
+    "id": 64,
+    "category": "No category",
+    "question": "What can you say about Raspberry Pi?",
+    "answer": "Raspberry Pi is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 368
   },
   {
-    "id": 71,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ Global Capstone Design Project 2025 (Workshop 2) เกี่ยวกับอะไร",
-    "answer": "ต่อยอดจาก Workshop 1 โดยร่วมมือกับนักศึกษานานาชาติพัฒนา Smart Bin System ระบบถังขยะอัจฉริยะที่คัดแยกขยะด้วยเซนเซอร์และ AI พร้อมสร้างแดชบอร์ด Next.js เชื่อมต่อฐานข้อมูล MySQL เพื่อแสดงผลข้อมูลขยะที่คัดแยกแล้วแบบเรียลไทม์ เสริมทักษะการทำงานเป็นทีมข้ามวัฒนธรรมและการออกแบบผลิตภัณฑ์",
+    "id": 65,
+    "category": "No category",
+    "question": "What can you say about Next.js?",
+    "answer": "Next.js is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 372
+  },
+  {
+    "id": 66,
+    "category": "No category",
+    "question": "What can you say about TensorFlow?",
+    "answer": "TensorFlow is listed as one of the portfolio skills. Date: 2026-04-04 00:00:00.",
     "line_no": 376
   },
   {
-    "id": 72,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ \"Air Monitor Pro\" (IoT) เกี่ยวกับอะไร",
-    "answer": "ระบบ IoT สำหรับตรวจวัดสภาพแวดล้อมแบบเรียลไทม์ในโกดัง ห้องแล็บ และโรงงานอุตสาหกรรม ผสานฮาร์ดแวร์ความแม่นยำสูงเข้ากับแดชบอร์ดบนคลาวด์ที่พัฒนาด้วย Next.js เฝ้าระวังคุณภาพอากาศ ค่าความปลอดภัย และตรวจจับเพลิงไหม้เบื้องต้นตลอด 24 ชั่วโมง มีระบบเซนเซอร์ 4-in-1 (ฝุ่น PM2.5, แก๊ส, อุณหภูมิ, ความชื้น) ระบบแจ้งเตือนอัจฉริยะทั้งไฟและเสียงพร้อมบันทึกล็อก และปรับตั้งค่าเซนเซอร์ผ่าน MQTT ทางไกลได้โดยไม่ต้องแฟลชฮาร์ดแวร์ใหม่ ใช้ ESP32 เป็นไมโครคอนโทรลเลอร์หลัก ร่วมกับเซนเซอร์ DHT22, Sharp GP2Y1010AU0F และ MQ-Series",
-    "line_no": 381
+    "id": 67,
+    "category": "No category",
+    "question": "What can you say about Tailwind CSS?",
+    "answer": "Tailwind CSS is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 380
   },
   {
-    "id": 73,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์เว็บไซต์ท่องเที่ยว \"Thaivel\" เกี่ยวกับอะไร",
-    "answer": "แพลตฟอร์มท่องเที่ยวแบบฟูลสแตกที่เชื่อมนักท่องเที่ยวเข้ากับวัฒนธรรมไทยแท้ ๆ พัฒนาขึ้นเพื่อประกวดในเวที International Web Design Contest (iWDC) จัดหมวดหมู่สถานที่ท่องเที่ยวตาม 6 ภูมิภาคของไทย พร้อมระบบค้นหาตามหมวด (คาเฟ่ ธรรมชาติ ร้านอาหาร สตรีทฟู้ด วัด และเมือง) มีผู้ช่วย AI \"Tuktuk Driver\" ให้คำแนะนำแบบสนทนาโต้ตอบ แผนที่ธีมมืดพร้อมหมุดกำหนดเอง ออกแบบรองรับมือถือเป็นหลัก และเชื่อมโยงโซเชียลมีเดียของแต่ละสถานที่ พัฒนาด้วย Next.js, Tailwind CSS และ MySQL",
-    "line_no": 387
+    "id": 68,
+    "category": "No category",
+    "question": "What can you say about MQTT?",
+    "answer": "MQTT is listed as one of the portfolio skills. Date: 2026-04-06 00:00:00.",
+    "line_no": 384
   },
   {
-    "id": 74,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ \"Pollanwser.org\" เกี่ยวกับอะไร",
-    "answer": "เว็บแอปพลิเคชันโพลแบบฟูลสแตก พัฒนาด้วย React.js, Java Spring Boot และ Tailwind CSS เพื่อฝึกทักษะการพัฒนาซอฟต์แวร์จริง มีระบบยืนยันตัวตนด้วย JWT สำหรับล็อกอินและสมัครสมาชิกอย่างปลอดภัย รองรับการสร้าง/แก้ไข/ลบทั้งโพลและผู้ใช้ (CRUD) ฝั่งหน้าเว็บสร้างด้วย React ตกแต่งด้วย Tailwind CSS ส่วนฝั่งหลังบ้านใช้ Java Spring Boot เปิด RESTful API พร้อมระบบควบคุมการเข้าถึงด้วยโทเคน",
-    "line_no": 393
+    "id": 69,
+    "category": "No category",
+    "question": "What can you say about Air Monitor Pro (IoT Mini project)?",
+    "answer": "Air Monitor Pro (IoT Mini project) is listed as one of the portfolio skills. Details: Air Monitor Pro: Smart Industrial Environmental Guard",
+    "line_no": 388
   },
   {
-    "id": 75,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ \"Flutter News App\" เกี่ยวกับอะไร",
-    "answer": "แอปพลิเคชันข่าวที่ดึงข้อมูลจาก API พร้อมระบบบุ๊กมาร์กบทความไว้อ่านภายหลัง สาธิตการจัดการสถานะ (state management) ใน Flutter",
-    "line_no": 398
-  },
-  {
-    "id": 76,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์เกม \"Flutter Space Shooter\" เกี่ยวกับอะไร",
-    "answer": "เกม 2 มิติแนวยิงยานอวกาศ พัฒนาด้วย Flutter สาธิตแนวคิดการพัฒนาเกมและอนิเมชัน",
-    "line_no": 404
-  },
-  {
-    "id": 77,
-    "category": "โปรเจกต์",
-    "question": "โปรเจกต์ \"Angular Online Poll App\" เกี่ยวกับอะไร",
-    "answer": "แอปพลิเคชันโหวต/ทำโพลออนไลน์ที่พัฒนาด้วย Angular สาธิตการใช้ฟอร์ม การจัดการอีเวนต์ และการจัดการสถานะ เชื่อมต่อกับเซิร์ฟเวอร์ Java Spring Boot ผ่าน API ตกแต่งหน้าตาด้วย Tailwind CSS และ DaisyUI",
-    "line_no": 411
-  },
-  {
-    "id": 78,
-    "category": "ภาพรวมข้ามหมวดหมู่",
-    "question": "ผลงานที่เคยทำเกี่ยวกับการเขียนเว็บมีอะไรบ้าง",
-    "answer": "ด้านการเขียนเว็บมีทั้งโปรเจกต์ส่วนตัวและงานประกวด ได้แก่ ระบบจัดการฝึกงานและเว็บไซต์แผนกไอที (สมัย ปวช./ปวส.), ระบบร้านค้าปลีก, เว็บโพล Pollanwser.org และ Angular Poll App, เว็บช้อปปิ้งด้วย React, เว็บไซต์ท่องเที่ยว Thaivel, แดชบอร์ด Air Monitor Pro และเว็บไซต์พอร์ตโฟลิโอส่วนตัว รวมถึงรางวัลระดับประเทศ/ภาคด้านเทคโนโลยีเครือข่ายที่มีองค์ประกอบพัฒนาเว็บไซต์ร่วมด้วย",
-    "line_no": 420
-  },
-  {
-    "id": 79,
-    "category": "ภาพรวมข้ามหมวดหมู่",
-    "question": "ผลงานที่เคยทำเกี่ยวกับการเขียนโค้ด/เขียนโปรแกรมมีอะไรบ้าง",
-    "answer": "มีผลงานด้านการเขียนโปรแกรมครอบคลุมหลายภาษาและแพลตฟอร์ม ทั้งเว็บ (HTML, CSS, JavaScript, PHP, React, Angular, Next.js, Spring Boot), แอปมือถือ (Flutter), IoT/ฮาร์ดแวร์ (Arduino, ESP32, MQTT), และ Python (โปรแกรมจำลองตู้ขายสินค้า) นอกจากนี้ยังเคยเป็นตัวแทนแข่งขันเขียนโปรแกรมระดับประเทศในรายการ ICPC 2025 และพัฒนาโค้ดระบบตรวจจับโดรนในการแข่งขัน TESA TOP GUN 2025",
-    "line_no": 424
-  },
-  {
-    "id": 80,
-    "category": "ภาพรวมข้ามหมวดหมู่",
-    "question": "มีลิงก์ GitHub หรือเว็บไซต์ผลงานให้ดูไหม",
-    "answer": "มีหลายลิงก์ให้ดูผลงานจริง ได้แก่ Air Monitor Pro (เว็บไซต์ https://airmonitorpro.netlify.app/ และซอร์สโค้ด https://github.com/Automatic28m/air_monitor_iot), Thaivel (ซอร์สโค้ด https://github.com/Automatic28m/thaivel), Vending Machine GUI (https://github.com/Automatic28m/python_vending_machine_2024), Flutter News App และ Space Shooter (ในคลัง https://github.com/Automatic28m/flutter-app-demos) และ Angular Online Poll App (https://github.com/Automatic28m/angular-app-demos)",
-    "line_no": 428
+    "id": 70,
+    "category": "No category",
+    "question": "What can you say about Thaivel, a tourism website?",
+    "answer": "Thaivel, a tourism website is listed as one of the portfolio skills. Details: THAIVEL is a sophisticated full-stack travel platform designed to bridge the gap between curious travelers and the authentic cultural essence of Thailand. Developed as a showcase for the International Web Design Contest (iWDC), this project highlights modern web standards, responsive design, and AI integration to simplify travel discovery.",
+    "line_no": 414
   }
 ]

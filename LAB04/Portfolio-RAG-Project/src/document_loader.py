@@ -18,7 +18,7 @@ def load_qa_file(file_path):
         lines = f.readlines()
 
     records = []
-    category = "ไม่ระบุหมวด"
+    category = "No category"
     question = None
     question_line = None
 

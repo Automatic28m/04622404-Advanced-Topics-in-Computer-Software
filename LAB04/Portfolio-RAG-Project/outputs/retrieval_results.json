@@ -1,115 +1,115 @@
 [
   {
-    "query": "ประวัติการศึกษา",
+    "query": "Please tell me your education history",
     "results": [
       {
-        "chunk_id": 52,
-        "qa_id": 44,
-        "category": "กิจกรรม",
-        "question": "เคยเป็นพิธีกรงานอะไรบ้าง",
-        "answer": "เคยเป็นพิธีกร 3 งานหลัก คือ งานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022 (2565), พิธีไหว้ครูปีการศึกษา 2565 (2565) และพิธีไหว้ครูปีการศึกษา 2566 (2566) ทั้งหมดจัดขึ้นที่วิทยาลัยเทคนิคไทย-ออสเตรียน",
-        "text": "Question: เคยเป็นพิธีกรงานอะไรบ้าง Answer: เคยเป็นพิธีกร 3 งานหลัก คือ งานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022 (2565), พิธีไหว้ครูปีการศึกษา 2565 (2565) และพิธีไหว้ครูปีการศึกษา 2566 (2566) ทั้งหมดจัดขึ้นที่วิทยาลัยเทคนิคไทย-ออสเตรียน",
+        "chunk_id": 4,
+        "qa_id": 4,
+        "category": "No category",
+        "question": "What is Primary School?",
+        "answer": "Primary School is an education milestone. It includes GPAX 3.70. It was completed at Pattanavechsuksa School. Date: 2014-12-31 00:00:00.",
+        "text": "Question: What is Primary School? Answer: Primary School is an education milestone. It includes GPAX 3.70. It was completed at Pattanavechsuksa School. Date: 2014-12-31 00:00:00.",
         "part_idx": 0,
-        "line_no": 236,
-        "score": 0.5570105314254761
+        "line_no": 21,
+        "score": 0.5070546269416809
       },
       {
-        "chunk_id": 61,
-        "qa_id": 53,
-        "category": "กิจกรรม",
-        "question": "บทบาทพิธีกรงานไหว้ครู ปีการศึกษา 2566 เป็นอย่างไร",
-        "answer": "ทำหน้าที่พิธีกรในพิธีไหว้ครู ปีการศึกษา 2566",
-        "text": "Question: บทบาทพิธีกรงานไหว้ครู ปีการศึกษา 2566 เป็นอย่างไร Answer: ทำหน้าที่พิธีกรในพิธีไหว้ครู ปีการศึกษา 2566",
+        "chunk_id": 80,
+        "qa_id": 54,
+        "category": "No category",
+        "question": "What can you say about Awarded Academic Excellence Scholarship for achieving a 4.00 GPA in Semester 2, Academic Year 2024?",
+        "answer": "Awarded Academic Excellence Scholarship for achieving a 4.00 GPA in Semester 2, Academic Year 2024 is listed as one of the portfolio skills. Details: ได้รับทุนการศึกษานักศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567. Associated location: RMUTT. Date: 2025-06-23 00:00:00.",
+        "text": "Question: What can you say about Awarded Academic Excellence Scholarship for achieving a 4.00 GPA in Semester 2, Academic Year 2024? Answer: Awarded Academic Excellence Scholarship for achieving a 4.00 GPA in Semester 2, Academic Year 2024 is listed as one of the portfolio skills. Details: ได้รับทุนการศึกษานักศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567. Associated location: ",
         "part_idx": 0,
-        "line_no": 284,
-        "score": 0.5473344326019287
-      },
-      {
-        "chunk_id": 45,
-        "qa_id": 39,
-        "category": "ผลงานและรางวัล",
-        "question": "ทุนการศึกษาเรียนดี เกรดเฉลี่ย 4.00 ได้มาอย่างไร",
-        "answer": "ได้รับทุนการศึกษานักศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567",
-        "text": "Question: ทุนการศึกษาเรียนดี เกรดเฉลี่ย 4.00 ได้มาอย่างไร Answer: ได้รับทุนการศึกษานักศึกษาเรียนดี เกรดเฉลี่ย 4.00 ประจำภาคการศึกษาที่ 2 ปีการศึกษา 2567",
-        "part_idx": 0,
-        "line_no": 209,
-        "score": 0.5462203025817871
-      }
-    ]
-  },
-  {
-    "query": "รางวัลที่ได้รับ",
-    "results": [
-      {
-        "chunk_id": 44,
-        "qa_id": 38,
-        "category": "ผลงานและรางวัล",
-        "question": "รางวัล \"ชมเชย (เหรียญทองแดง) การประกวดสิ่งประดิษฐ์คนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี\" ได้มาอย่างไร",
-        "answer": "ได้รับรางวัลชมเชยระดับเหรียญทองแดง จากการประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ที่วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์ (ชลบุรี) โดยรับหน้าที่เป็นผู้บรรยายผลงานสิ่งประดิษฐ์เป็นภาษาอังกฤษ",
-        "text": "Question: รางวัล \"ชมเชย (เหรียญทองแดง) การประกวดสิ่งประดิษฐ์คนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี\" ได้มาอย่างไร Answer: ได้รับรางวัลชมเชยระดับเหรียญทองแดง จากการประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ที่วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์ (ชลบุรี) โดยรับหน้าที่เป็นผู้บรรยายผลงานสิ่งประดิษฐ์เป็นภาษาอังกฤษ",
-        "part_idx": 0,
-        "line_no": 203,
-        "score": 0.6071617603302002
+        "line_no": 318,
+        "score": 0.4280623197555542
       },
       {
         "chunk_id": 49,
-        "qa_id": 42,
-        "category": "ผลงานและรางวัล",
-        "question": "ประสบการณ์การแข่งขัน TESA TOP GUN 2025 เป็นอย่างไร",
-        "answer": "เป็นตัวแทนมหาวิทยาลัยเข้าแข่งขัน TESA TOP GUN 2025 (9-15 พฤศจิกายน 2568) หัวข้อนวัตกรรมด้านการป้องกันประเทศ แข่งกับ 69 ทีมจาก 38 มหาวิทยาลัยทั่วประเทศ รับผิดชอบพัฒนาระบบตรวจจับโดรนแบบเรียลไทม์ พร้อมระบุพิกัด/ระดับความสูง และติดตามเป้าหมาย เพื่อส่งข้อมูลไปแสดงผลบน Dashboard ทีมได้รับรางวัล Top Score on Presentation และ Top Score on Battle Fields Integration ซึ่งเป็นความภาคภูมิใจอย่างยิ่ง",
-        "text": "ับรางวัล Top Score on Presentation และ Top Score on Battle Fields Integration ซึ่งเป็นความภาคภูมิใจอย่างยิ่ง",
-        "part_idx": 1,
-        "line_no": 224,
-        "score": 0.5670984983444214
-      },
-      {
-        "chunk_id": 25,
-        "qa_id": 23,
-        "category": "ผลงานและรางวัล",
-        "question": "มีผลงานหรือรางวัลอะไรบ้าง",
-        "answer": "มีรางวัลหลากหลายด้าน ครอบคลุมทั้งด้านเทคโนโลยีเครือข่าย (รองชนะเลิศระดับประเทศและชนะเลิศระดับภาค) ด้านภาษาอังกฤษ (รางวัลพูดสุนทรพจน์และสาธิตหลายรายการ รวมถึงคะแนน TOEIC 690) ด้านทุนการศึกษา (ทุนเรียนดีเกรด 4.00 และทุนจากกองเรือยุทธการ) ด้านการประกวดสิ่งประดิษฐ์ ด้านความเป็นผู้นำจากการเป็นนักศึกษาวิชาทหาร และการเป็นตัวแทนสถาบัน/มหาวิทยาลัยเข้าแข่งขันระดับประเทศอย่าง ICPC 2025 และ TESA TOP GUN 2025",
-        "text": "Question: มีผลงานหรือรางวัลอะไรบ้าง Answer: มีรางวัลหลากหลายด้าน ครอบคลุมทั้งด้านเทคโนโลยีเครือข่าย (รองชนะเลิศระดับประเทศและชนะเลิศระดับภาค) ด้านภาษาอังกฤษ (รางวัลพูดสุนทรพจน์และสาธิตหลายรายการ รวมถึงคะแนน TOEIC 690) ด้านทุนการศึกษา (ทุนเรียนดีเกรด 4.00 และทุนจากกองเรือยุทธการ) ด้านการประกวดสิ่งประดิษฐ์ ด้านความเป็นผู้นำจากการเป็นนักศึกษาวิชาทหาร และการเป็นตัวแทนสถาบัน/มหาวิทยาลัยเข้าแข่งขันระดับ",
+        "qa_id": 36,
+        "category": "No category",
+        "question": "What can you say about Provided academic guidance and introduced the department to visiting students during the Thai-Austrian Tech Open House 2022?",
+        "answer": "Provided academic guidance and introduced the department to visiting students during the Thai-Austrian Tech Open House 2022 is listed as one of the portfolio skills. Details: เป็นผู้แนะแนวให้ความรู้แผนกวิชา ให้กับน้องๆที่เข้ามาดูงานเปิดบ้านวิชาการ Thai-Austrian Tech Open House 2022. Associated location: Thai-Austrian Technical College. Date: 2022-11-22 00:00:00.",
+        "text": "Question: What can you say about Provided academic guidance and introduced the department to visiting students during the Thai-Austrian Tech Open House 2022? Answer: Provided academic guidance and introduced the department to visiting students during the Thai-Austrian Tech Open House 2022 is listed as one of the portfolio skills. Details: เป็นผู้แนะแนวให้ความรู้แผนกวิชา ให้กับน้องๆที่เข้ามาดูงานเป",
         "part_idx": 0,
-        "line_no": 124,
-        "score": 0.5658108592033386
+        "line_no": 160,
+        "score": 0.42206594347953796
       }
     ]
   },
   {
-    "query": "โปรเจกที่เคยทำ",
+    "query": "Tell me some award that you have recieved",
     "results": [
       {
-        "chunk_id": 67,
-        "qa_id": 59,
-        "category": "โปรเจกต์",
-        "question": "ทำโปรเจกต์หรือชิ้นงานอะไรมาบ้าง",
-        "answer": "ทำโปรเจกต์มาแล้วหลากหลายรูปแบบ ครอบคลุมเว็บแอปพลิเคชัน (ระบบจัดการฝึกงาน ระบบร้านค้าปลีก เว็บโพล เว็บช้อปปิ้ง เว็บไซต์ท่องเที่ยว Thaivel) แอปมือถือด้วย Flutter (แอปข่าว เกม 2 มิติ) ระบบ IoT (Air Monitor Pro ตรวจวัดคุณภาพอากาศ) โปรแกรม Python (ตู้ขายสินค้าจำลอง) รวมถึงโครงการนานาชาติร่วมกับมหาวิทยาลัย Yeungnam ประเทศเกาหลีใต้ (Global Capstone Design Project) และเว็บไซต์พอร์ตโฟลิโอส่วนตัว",
-        "text": "Question: ทำโปรเจกต์หรือชิ้นงานอะไรมาบ้าง Answer: ทำโปรเจกต์มาแล้วหลากหลายรูปแบบ ครอบคลุมเว็บแอปพลิเคชัน (ระบบจัดการฝึกงาน ระบบร้านค้าปลีก เว็บโพล เว็บช้อปปิ้ง เว็บไซต์ท่องเที่ยว Thaivel) แอปมือถือด้วย Flutter (แอปข่าว เกม 2 มิติ) ระบบ IoT (Air Monitor Pro ตรวจวัดคุณภาพอากาศ) โปรแกรม Python (ตู้ขายสินค้าจำลอง) รวมถึงโครงการนานาชาติร่วมกับมหาวิทยาลัย Yeungnam ประเทศเกาหลีใต้ (Global Capstone Design",
+        "chunk_id": 58,
+        "qa_id": 41,
+        "category": "No category",
+        "question": "What can you say about Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention?",
+        "answer": "Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention is listed as one of the portfolio skills. Details: รางวัลชมเชย ระดับเหรียญทองแดง การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ณ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี) ซึ่งได้รับหน้าที่ผู้บรรยายสิ่งประดิษฐ์เป็นภาษาอังกฤษ. Associated location: Science-Based Technology Vocational College (Chonburi). Date: 2021-03-22 00:00:00.",
+        "text": "Question: What can you say about Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention? Answer: Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education L",
         "part_idx": 0,
-        "line_no": 320,
-        "score": 0.5943854451179504
+        "line_no": 180,
+        "score": 0.44497036933898926
       },
       {
-        "chunk_id": 76,
-        "qa_id": 65,
-        "category": "โปรเจกต์",
-        "question": "โปรเจกต์กลุ่ม \"ระบบร้านค้าปลีก\" เกี่ยวกับอะไร",
-        "answer": "พัฒนาเว็บแอปพลิเคชันสำหรับร้านค้าปลีกแบบครบวงจร ด้วย HTML, CSS, JavaScript, PHP, Bootstrap 5 และ SQL ครอบคลุมตั้งแต่การออกแบบระบบด้วย ER Diagram และ Data Flow Diagram การบริหารโครงการด้วย Gantt Chart และแบ่งหน้าที่ในทีมชัดเจน ไปจนถึงการพัฒนาทั้งฝั่งฟรอนต์เอนด์และแบ็กเอนด์ ทำเสร็จภายในไม่กี่สัปดาห์ สะท้อนทักษะการพัฒนาแบบฟูลสแตกและการวางแผนโครงการ",
-        "text": "ม่กี่สัปดาห์ สะท้อนทักษะการพัฒนาแบบฟูลสแตกและการวางแผนโครงการ",
+        "chunk_id": 82,
+        "qa_id": 55,
+        "category": "No category",
+        "question": "What can you say about Awarded Academic Excellence Scholarship in commemoration of the Naval Training Command Foundation Day, Royal Thai Fleet?",
+        "answer": "Awarded Academic Excellence Scholarship in commemoration of the Naval Training Command Foundation Day, Royal Thai Fleet is listed as one of the portfolio skills. Details: ได้รับทุนส่งเสริมผู้มีการเรียนดี เนื่องในวันคล้ายวันสถาปนา กองการฝึก กองเรือยุทธการ. Associated location: Royal Thai Fleet, Sattahip, Chonburi. Date: 2025-06-19 00:00:00.",
+        "text": "Question: What can you say about Awarded Academic Excellence Scholarship in commemoration of the Naval Training Command Foundation Day, Royal Thai Fleet? Answer: Awarded Academic Excellence Scholarship in commemoration of the Naval Training Command Foundation Day, Royal Thai Fleet is listed as one of the portfolio skills. Details: ได้รับทุนส่งเสริมผู้มีการเรียนดี เนื่องในวันคล้ายวันสถาปนา กองการฝึ",
+        "part_idx": 0,
+        "line_no": 322,
+        "score": 0.3985865116119385
+      },
+      {
+        "chunk_id": 37,
+        "qa_id": 29,
+        "category": "No category",
+        "question": "What can you say about First Runner-up Award in the English Public Speaking Contest, Vocational Education Level, Chonburi Province?",
+        "answer": "First Runner-up Award in the English Public Speaking Contest, Vocational Education Level, Chonburi Province is listed as one of the portfolio skills. Details: รางวัลรองชนะเลิศอันดับ 1 English Public Speaking Contest ระดับอาชีวศึกษาจังหวัด จังหวัดชลบุรี. Associated location: Pattaya Technical College. Date: 2020-12-22 00:00:00.",
+        "text": "Question: What can you say about First Runner-up Award in the English Public Speaking Contest, Vocational Education Level, Chonburi Province? Answer: First Runner-up Award in the English Public Speaking Contest, Vocational Education Level, Chonburi Province is listed as one of the portfolio skills. Details: รางวัลรองชนะเลิศอันดับ 1 English Public Speaking Contest ระดับอาชีวศึกษาจังหวัด จังหวัดชลบุ",
+        "part_idx": 0,
+        "line_no": 128,
+        "score": 0.38496893644332886
+      }
+    ]
+  },
+  {
+    "query": "Project that you've done",
+    "results": [
+      {
+        "chunk_id": 24,
+        "qa_id": 20,
+        "category": "No category",
+        "question": "What can you say about Final Year Project for (Diploma, Software Development)?",
+        "answer": "Final Year Project for (Diploma, Software Development) is listed as one of the portfolio skills. Details: Developed a comprehensive student internship management system for Thai-Austrian Technical College using HTML, CSS, JavaScript, PHP, Bootstrap 5, and SQL.",
+        "text": "Question: What can you say about Final Year Project for (Diploma, Software Development)? Answer: Final Year Project for (Diploma, Software Development) is listed as one of the portfolio skills. Details: Developed a comprehensive student internship management system for Thai-Austrian Technical College using HTML, CSS, JavaScript, PHP, Bootstrap 5, and SQL.",
+        "part_idx": 0,
+        "line_no": 85,
+        "score": 0.4114820659160614
+      },
+      {
+        "chunk_id": 59,
+        "qa_id": 41,
+        "category": "No category",
+        "question": "What can you say about Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention?",
+        "answer": "Received the Bronze Award (Consolation Prize) in the Young Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention is listed as one of the portfolio skills. Details: รางวัลชมเชย ระดับเหรียญทองแดง การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ณ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี) ซึ่งได้รับหน้าที่ผู้บรรยายสิ่งประดิษฐ์เป็นภาษาอังกฤษ. Associated location: Science-Based Technology Vocational College (Chonburi). Date: 2021-03-22 00:00:00.",
+        "text": "ng Inventors Contest at the Vocational Education Level, Chonburi Province, held at the Science-Based Technology Vocational College (Chonburi). Took the role of English presenter for the invention is listed as one of the portfolio skills. Details: รางวัลชมเชย ระดับเหรียญทองแดง การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษาจังหวัดชลบุรี ณ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี) ซึ่งได้",
         "part_idx": 1,
-        "line_no": 345,
-        "score": 0.5701566338539124
+        "line_no": 180,
+        "score": 0.3955651521682739
       },
       {
-        "chunk_id": 78,
-        "qa_id": 67,
-        "category": "โปรเจกต์",
-        "question": "โปรเจกต์ Global Capstone Design Project 2025 (Workshop 1) เกี่ยวกับอะไร",
-        "answer": "ร่วมมือกับนักศึกษานานาชาติแก้ปัญหาสิ่งแวดล้อมจริงด้วยแนวคิด Design Thinking และ Engineering Design ระดมความคิดพัฒนา Smart Bin System ระบบถังขยะที่รู้จำและคัดแยกประเภทขยะ (พลาสติก โลหะ อินทรีย์) ด้วยเซนเซอร์และเทคนิคการจำแนกด้วย AI ออกแบบระบบให้รางวัลเป็นคูปองดิจิทัลเพื่อจูงใจผู้ใช้ให้รักษ์สิ่งแวดล้อม พร้อมทั้งเสริมทักษะการทำงานเป็นทีมข้ามวัฒนธรรมและการออกแบบผลิตภัณฑ์เบื้องต้น เป็นความร่วมมือระหว่างมหาวิทยาลัย Yeungnam (เกาหลีใต้) และ RMUTT",
-        "text": "Question: โปรเจกต์ Global Capstone Design Project 2025 (Workshop 1) เกี่ยวกับอะไร Answer: ร่วมมือกับนักศึกษานานาชาติแก้ปัญหาสิ่งแวดล้อมจริงด้วยแนวคิด Design Thinking และ Engineering Design ระดมความคิดพัฒนา Smart Bin System ระบบถังขยะที่รู้จำและคัดแยกประเภทขยะ (พลาสติก โลหะ อินทรีย์) ด้วยเซนเซอร์และเทคนิคการจำแนกด้วย AI ออกแบบระบบให้รางวัลเป็นคูปองดิจิทัลเพื่อจูงใจผู้ใช้ให้รักษ์สิ่งแวดล้อม พร้อมทั้",
+        "chunk_id": 84,
+        "qa_id": 56,
+        "category": "No category",
+        "question": "What can you say about Global Capstone Design Project 2025 (Workshop 2)?",
+        "answer": "Global Capstone Design Project 2025 (Workshop 2) is listed as one of the portfolio skills. Details: The GCDP is a collaborative effort between institutions of Yeungnam University (YU) in South Korea and Rajamangala University of Technology Thanyaburi (RMUTT) in Thailand. These universities have jointly conducted short-term exchange programs under the GCDP framework, allowing students to work together on projects that address real-world challenges.",
+        "text": "Question: What can you say about Global Capstone Design Project 2025 (Workshop 2)? Answer: Global Capstone Design Project 2025 (Workshop 2) is listed as one of the portfolio skills. Details: The GCDP is a collaborative effort between institutions of Yeungnam University (YU) in South Korea and Rajamangala University of Technology Thanyaburi (RMUTT) in Thailand. These universities have jointly condu",
         "part_idx": 0,
-        "line_no": 355,
-        "score": 0.5361289381980896
+        "line_no": 326,
+        "score": 0.3762633204460144
       }
     ]
   }

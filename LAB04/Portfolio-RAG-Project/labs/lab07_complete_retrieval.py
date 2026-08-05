@@ -11,7 +11,7 @@ import json
 import os
 import sys
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
 from src.retriever import Retriever
@@ -19,9 +19,9 @@ from src.retriever import Retriever
 # Questions for testing the retrieval system 
 # (covering multiple categories in the data) 
 SAMPLE_QUERIES = [
-    "ประวัติการศึกษา",
-    "รางวัลที่ได้รับ",
-    "โปรเจกที่เคยทำ",
+    "Please tell me your education history",
+    "Tell me some award that you have recieved",
+    "Project that you've done",
 ]
 
 def main():
