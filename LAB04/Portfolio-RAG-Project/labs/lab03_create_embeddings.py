@@ -27,7 +27,7 @@ def main():
 
     texts = [chunk["text"] for chunk in chunks]
 
-    model = EmbeddingModel(config.EMBEDDING_MODEL_NAME)
+    model = EmbeddingModel()
     embeddings = model.encode(texts)
 
     print(f"Found embeddings of size: {embeddings.shape}  (number of chunks, \

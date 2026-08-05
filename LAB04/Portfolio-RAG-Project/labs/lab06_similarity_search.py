@@ -19,7 +19,7 @@ from src.vector_store import VectorStore, load_chunk_store
 def main():
     print("=== Lab 6: Similarity Search ===")
 
-    model = EmbeddingModel(config.EMBEDDING_MODEL_NAME)
+    model = EmbeddingModel()
 
     store = VectorStore()
     store.load(config.FAISS_INDEX_FILE)
@@ -29,10 +29,10 @@ def main():
     print(f"Exp Query: {query}")
 
     query_vector = model.encode_query(query)
-    scores, indices = store.search(query_vector, config.TOP_K)
+    results = store.search(query_vector, config.TOP_K)
 
     print(f"\n Results top-{config.TOP_K}:")
-    for rank, (score, idx) in enumerate(zip(scores, indices), start=1):
+    for rank, (idx, score) in enumerate(results, start=1):
         chunk = chunks[idx]
         print(f"\n[{rank}] Point of Similarity: {score:.4f}")
         print(f"    Category: {chunk['category']}")

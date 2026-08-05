@@ -17,7 +17,7 @@ from src.embedding_model import EmbeddingModel
 def main():
     print("Lab 5: Query Embedding")
 
-    model = EmbeddingModel(config.EMBEDDING_MODEL_NAME)
+    model = EmbeddingModel()
 
     query = "ผลงานด้านการเขียนโค้ด"
     print(f" Exp Query: {query}")

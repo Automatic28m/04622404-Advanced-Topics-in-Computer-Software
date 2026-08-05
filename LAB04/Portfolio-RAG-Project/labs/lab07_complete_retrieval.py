@@ -27,11 +27,7 @@ SAMPLE_QUERIES = [
 def main():
     print("Lab 7: Complete retrieval pipeline")
 
-    retriever = Retriever(
-        model_name=config.EMBEDDING_MODEL_NAME,
-        index_path=config.FAISS_INDEX_FILE,
-        chunk_store_path=config.CHUNK_STORE_FILE,
-    )
+    retriever = Retriever()
 
     all_results = []
 
