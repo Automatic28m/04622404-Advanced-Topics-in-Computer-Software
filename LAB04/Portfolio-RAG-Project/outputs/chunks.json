@@ -1028,5 +1028,595 @@
     "text": "b Design Contest (iWDC), this project highlights modern web standards, responsive design, and AI integration to simplify travel discovery.",
     "part_idx": 1,
     "line_no": 414
+  },
+  {
+    "chunk_id": 103,
+    "qa_id": 71,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in C++ or dart, flutter, mobile-app? Do you have any projects related to this?",
+    "answer": "I have expertise in C++ and dart, flutter, mobile-app. For example, I built the 04622303-Mobile-Device-Programming-for-Digital-Industry project, which focuses on A RMUTT Course that focus on creation of mobile app using Dart and Flutter. You can view the repository here: https://github.com/Automatic28m/04622303-Mobile-Device-Programming-for-Digital-Industry",
+    "text": "Question: What are your technical interests and expertise in C++ or dart, flutter, mobile-app? Do you have any projects related to this? Answer: I have expertise in C++ and dart, flutter, mobile-app. For example, I built the 04622303-Mobile-Device-Programming-for-Digital-Industry project, which focuses on A RMUTT Course that focus on creation of mobile app using Dart and Flutter. You can view the ",
+    "part_idx": 0,
+    "line_no": 436
+  },
+  {
+    "chunk_id": 104,
+    "qa_id": 71,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in C++ or dart, flutter, mobile-app? Do you have any projects related to this?",
+    "answer": "I have expertise in C++ and dart, flutter, mobile-app. For example, I built the 04622303-Mobile-Device-Programming-for-Digital-Industry project, which focuses on A RMUTT Course that focus on creation of mobile app using Dart and Flutter. You can view the repository here: https://github.com/Automatic28m/04622303-Mobile-Device-Programming-for-Digital-Industry",
+    "text": "bile app using Dart and Flutter. You can view the repository here: https://github.com/Automatic28m/04622303-Mobile-Device-Programming-for-Digital-Industry",
+    "part_idx": 1,
+    "line_no": 436
+  },
+  {
+    "chunk_id": 105,
+    "qa_id": 72,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or ai, machine-learning, rag, rag-pipeline? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and ai, machine-learning, rag, rag-pipeline. For example, I built the Advance-AI-RAG project, which focuses on To study the 8 steps of LLM data pipeline since Data Collection until the LLM / Retrieval to finally learn the methodology of RAG or Retrieval-Augmented Generation.. You can view the repository here: https://github.com/Automatic28m/Advance-AI-RAG",
+    "text": "Question: What are your technical interests and expertise in Jupyter Notebook or ai, machine-learning, rag, rag-pipeline? Do you have any projects related to this? Answer: I have expertise in Jupyter Notebook and ai, machine-learning, rag, rag-pipeline. For example, I built the Advance-AI-RAG project, which focuses on To study the 8 steps of LLM data pipeline since Data Collection until the LLM / ",
+    "part_idx": 0,
+    "line_no": 440
+  },
+  {
+    "chunk_id": 106,
+    "qa_id": 72,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or ai, machine-learning, rag, rag-pipeline? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and ai, machine-learning, rag, rag-pipeline. For example, I built the Advance-AI-RAG project, which focuses on To study the 8 steps of LLM data pipeline since Data Collection until the LLM / Retrieval to finally learn the methodology of RAG or Retrieval-Augmented Generation.. You can view the repository here: https://github.com/Automatic28m/Advance-AI-RAG",
+    "text": "ta pipeline since Data Collection until the LLM / Retrieval to finally learn the methodology of RAG or Retrieval-Augmented Generation.. You can view the repository here: https://github.com/Automatic28m/Advance-AI-RAG",
+    "part_idx": 1,
+    "line_no": 440
+  },
+  {
+    "chunk_id": 107,
+    "qa_id": 73,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or fall-detection, machine-learning, wifi-csi? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and fall-detection, machine-learning, wifi-csi. For example, I built the AI-Powered-3D-Fall-Detection-System-using-WiFi-Sensing project, which focuses on Bathroom Fall Detection System WiFi CSI and Machine Learning. You can view the repository here: https://github.com/Automatic28m/AI-Powered-3D-Fall-Detection-System-using-WiFi-Sensing",
+    "text": "Question: What are your technical interests and expertise in Jupyter Notebook or fall-detection, machine-learning, wifi-csi? Do you have any projects related to this? Answer: I have expertise in Jupyter Notebook and fall-detection, machine-learning, wifi-csi. For example, I built the AI-Powered-3D-Fall-Detection-System-using-WiFi-Sensing project, which focuses on Bathroom Fall Detection System WiF",
+    "part_idx": 0,
+    "line_no": 444
+  },
+  {
+    "chunk_id": 108,
+    "qa_id": 73,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or fall-detection, machine-learning, wifi-csi? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and fall-detection, machine-learning, wifi-csi. For example, I built the AI-Powered-3D-Fall-Detection-System-using-WiFi-Sensing project, which focuses on Bathroom Fall Detection System WiFi CSI and Machine Learning. You can view the repository here: https://github.com/Automatic28m/AI-Powered-3D-Fall-Detection-System-using-WiFi-Sensing",
+    "text": "hich focuses on Bathroom Fall Detection System WiFi CSI and Machine Learning. You can view the repository here: https://github.com/Automatic28m/AI-Powered-3D-Fall-Detection-System-using-WiFi-Sensing",
+    "part_idx": 1,
+    "line_no": 444
+  },
+  {
+    "chunk_id": 109,
+    "qa_id": 74,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or iot, nextjs? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and iot, nextjs. For example, I built the air_monitor_iot project, which focuses on Air Monitor Pro is a comprehensive IoT ecosystem designed for real-time environmental monitoring in warehouses, laboratories, and industrial spaces. By integrating high-precision hardware with a cloud-based Next.js dashboard, the system provides 24/7 surveillance of air quality, safety thresholds, and early fire detection.. You can view the repository here: https://github.com/Automatic28m/air_monitor_iot",
+    "text": "Question: What are your technical interests and expertise in JavaScript or iot, nextjs? Do you have any projects related to this? Answer: I have expertise in JavaScript and iot, nextjs. For example, I built the air_monitor_iot project, which focuses on Air Monitor Pro is a comprehensive IoT ecosystem designed for real-time environmental monitoring in warehouses, laboratories, and industrial spaces",
+    "part_idx": 0,
+    "line_no": 448
+  },
+  {
+    "chunk_id": 110,
+    "qa_id": 74,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or iot, nextjs? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and iot, nextjs. For example, I built the air_monitor_iot project, which focuses on Air Monitor Pro is a comprehensive IoT ecosystem designed for real-time environmental monitoring in warehouses, laboratories, and industrial spaces. By integrating high-precision hardware with a cloud-based Next.js dashboard, the system provides 24/7 surveillance of air quality, safety thresholds, and early fire detection.. You can view the repository here: https://github.com/Automatic28m/air_monitor_iot",
+    "text": "in warehouses, laboratories, and industrial spaces. By integrating high-precision hardware with a cloud-based Next.js dashboard, the system provides 24/7 surveillance of air quality, safety thresholds, and early fire detection.. You can view the repository here: https://github.com/Automatic28m/air_monitor_iot",
+    "part_idx": 1,
+    "line_no": 448
+  },
+  {
+    "chunk_id": 111,
+    "qa_id": 75,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or ai, python, yolo26? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and ai, python, yolo26. For example, I built the ai_rasbpi5_competition project, which focuses on AI Model Development Competition for Raspberry Pi 5 2026. You can view the repository here: https://github.com/Automatic28m/ai_rasbpi5_competition",
+    "text": "Question: What are your technical interests and expertise in Python or ai, python, yolo26? Do you have any projects related to this? Answer: I have expertise in Python and ai, python, yolo26. For example, I built the ai_rasbpi5_competition project, which focuses on AI Model Development Competition for Raspberry Pi 5 2026. You can view the repository here: https://github.com/Automatic28m/ai_rasbpi5",
+    "part_idx": 0,
+    "line_no": 452
+  },
+  {
+    "chunk_id": 112,
+    "qa_id": 75,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or ai, python, yolo26? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and ai, python, yolo26. For example, I built the ai_rasbpi5_competition project, which focuses on AI Model Development Competition for Raspberry Pi 5 2026. You can view the repository here: https://github.com/Automatic28m/ai_rasbpi5_competition",
+    "text": "y here: https://github.com/Automatic28m/ai_rasbpi5_competition",
+    "part_idx": 1,
+    "line_no": 452
+  },
+  {
+    "chunk_id": 113,
+    "qa_id": 76,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in TypeScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in TypeScript and software development and engineering. For example, I built the angular-app-demos project, which focuses on These demo applications showcase the functionality of each library using Angular.. You can view the repository here: https://github.com/Automatic28m/angular-app-demos",
+    "text": "Question: What are your technical interests and expertise in TypeScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in TypeScript and software development and engineering. For example, I built the angular-app-demos project, which focuses on These demo applications showcase the functionality of each library using Angular.. You can view",
+    "part_idx": 0,
+    "line_no": 456
+  },
+  {
+    "chunk_id": 114,
+    "qa_id": 76,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in TypeScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in TypeScript and software development and engineering. For example, I built the angular-app-demos project, which focuses on These demo applications showcase the functionality of each library using Angular.. You can view the repository here: https://github.com/Automatic28m/angular-app-demos",
+    "text": "ality of each library using Angular.. You can view the repository here: https://github.com/Automatic28m/angular-app-demos",
+    "part_idx": 1,
+    "line_no": 456
+  },
+  {
+    "chunk_id": 115,
+    "qa_id": 77,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or ai, machine-learning, python, rag, retrieval-augmented-generation? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and ai, machine-learning, python, rag, retrieval-augmented-generation. For example, I built the ATCS-CPE project, which focuses on Build a simple RAG retrieval pipeline from scratch using Python, including PDF loading, chunking, embeddings, a vector database, and semantic document search.. You can view the repository here: https://github.com/Automatic28m/ATCS-CPE",
+    "text": "Question: What are your technical interests and expertise in Python or ai, machine-learning, python, rag, retrieval-augmented-generation? Do you have any projects related to this? Answer: I have expertise in Python and ai, machine-learning, python, rag, retrieval-augmented-generation. For example, I built the ATCS-CPE project, which focuses on Build a simple RAG retrieval pipeline from scratch usi",
+    "part_idx": 0,
+    "line_no": 460
+  },
+  {
+    "chunk_id": 116,
+    "qa_id": 77,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or ai, machine-learning, python, rag, retrieval-augmented-generation? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and ai, machine-learning, python, rag, retrieval-augmented-generation. For example, I built the ATCS-CPE project, which focuses on Build a simple RAG retrieval pipeline from scratch using Python, including PDF loading, chunking, embeddings, a vector database, and semantic document search.. You can view the repository here: https://github.com/Automatic28m/ATCS-CPE",
+    "text": "d a simple RAG retrieval pipeline from scratch using Python, including PDF loading, chunking, embeddings, a vector database, and semantic document search.. You can view the repository here: https://github.com/Automatic28m/ATCS-CPE",
+    "part_idx": 1,
+    "line_no": 460
+  },
+  {
+    "chunk_id": 117,
+    "qa_id": 78,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in various programming languages or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in various programming languages and software development and engineering. For example, I built the Automatic28m project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Automatic28m",
+    "text": "Question: What are your technical interests and expertise in various programming languages or software development and engineering? Do you have any projects related to this? Answer: I have expertise in various programming languages and software development and engineering. For example, I built the Automatic28m project, which focuses on various technical implementations. You can view the repository",
+    "part_idx": 0,
+    "line_no": 464
+  },
+  {
+    "chunk_id": 118,
+    "qa_id": 78,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in various programming languages or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in various programming languages and software development and engineering. For example, I built the Automatic28m project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Automatic28m",
+    "text": "nical implementations. You can view the repository here: https://github.com/Automatic28m/Automatic28m",
+    "part_idx": 1,
+    "line_no": 464
+  },
+  {
+    "chunk_id": 119,
+    "qa_id": 79,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in TSQL or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in TSQL and software development and engineering. For example, I built the Database_ready2use project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Database_ready2use",
+    "text": "Question: What are your technical interests and expertise in TSQL or software development and engineering? Do you have any projects related to this? Answer: I have expertise in TSQL and software development and engineering. For example, I built the Database_ready2use project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Datab",
+    "part_idx": 0,
+    "line_no": 468
+  },
+  {
+    "chunk_id": 120,
+    "qa_id": 79,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in TSQL or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in TSQL and software development and engineering. For example, I built the Database_ready2use project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Database_ready2use",
+    "text": "sitory here: https://github.com/Automatic28m/Database_ready2use",
+    "part_idx": 1,
+    "line_no": 468
+  },
+  {
+    "chunk_id": 121,
+    "qa_id": 80,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and software development and engineering. For example, I built the DCNN project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/DCNN",
+    "text": "Question: What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Jupyter Notebook and software development and engineering. For example, I built the DCNN project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automati",
+    "part_idx": 0,
+    "line_no": 472
+  },
+  {
+    "chunk_id": 122,
+    "qa_id": 80,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and software development and engineering. For example, I built the DCNN project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/DCNN",
+    "text": "w the repository here: https://github.com/Automatic28m/DCNN",
+    "part_idx": 1,
+    "line_no": 472
+  },
+  {
+    "chunk_id": 123,
+    "qa_id": 81,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and software development and engineering. For example, I built the deepLearningForMassiveMIMO project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/deepLearningForMassiveMIMO",
+    "text": "Question: What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Jupyter Notebook and software development and engineering. For example, I built the deepLearningForMassiveMIMO project, which focuses on various technical implementations. You can view the repository here: https",
+    "part_idx": 0,
+    "line_no": 476
+  },
+  {
+    "chunk_id": 124,
+    "qa_id": 81,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and software development and engineering. For example, I built the deepLearningForMassiveMIMO project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/deepLearningForMassiveMIMO",
+    "text": "entations. You can view the repository here: https://github.com/Automatic28m/deepLearningForMassiveMIMO",
+    "part_idx": 1,
+    "line_no": 476
+  },
+  {
+    "chunk_id": 125,
+    "qa_id": 82,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in various programming languages or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in various programming languages and software development and engineering. For example, I built the drone_detection_dataset_yolo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/drone_detection_dataset_yolo",
+    "text": "Question: What are your technical interests and expertise in various programming languages or software development and engineering? Do you have any projects related to this? Answer: I have expertise in various programming languages and software development and engineering. For example, I built the drone_detection_dataset_yolo project, which focuses on various technical implementations. You can vie",
+    "part_idx": 0,
+    "line_no": 480
+  },
+  {
+    "chunk_id": 126,
+    "qa_id": 82,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in various programming languages or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in various programming languages and software development and engineering. For example, I built the drone_detection_dataset_yolo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/drone_detection_dataset_yolo",
+    "text": " on various technical implementations. You can view the repository here: https://github.com/Automatic28m/drone_detection_dataset_yolo",
+    "part_idx": 1,
+    "line_no": 480
+  },
+  {
+    "chunk_id": 127,
+    "qa_id": 83,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in C++ or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in C++ and software development and engineering. For example, I built the flutter-app-demos project, which focuses on These demo applications illustrate how each library operates within a Flutter environment.. You can view the repository here: https://github.com/Automatic28m/flutter-app-demos",
+    "text": "Question: What are your technical interests and expertise in C++ or software development and engineering? Do you have any projects related to this? Answer: I have expertise in C++ and software development and engineering. For example, I built the flutter-app-demos project, which focuses on These demo applications illustrate how each library operates within a Flutter environment.. You can view the ",
+    "part_idx": 0,
+    "line_no": 484
+  },
+  {
+    "chunk_id": 128,
+    "qa_id": 83,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in C++ or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in C++ and software development and engineering. For example, I built the flutter-app-demos project, which focuses on These demo applications illustrate how each library operates within a Flutter environment.. You can view the repository here: https://github.com/Automatic28m/flutter-app-demos",
+    "text": "s within a Flutter environment.. You can view the repository here: https://github.com/Automatic28m/flutter-app-demos",
+    "part_idx": 1,
+    "line_no": 484
+  },
+  {
+    "chunk_id": 129,
+    "qa_id": 84,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the gcdp-trashvision project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/gcdp-trashvision",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the gcdp-trashvision project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automati",
+    "part_idx": 0,
+    "line_no": 488
+  },
+  {
+    "chunk_id": 130,
+    "qa_id": 84,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the gcdp-trashvision project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/gcdp-trashvision",
+    "text": "w the repository here: https://github.com/Automatic28m/gcdp-trashvision",
+    "part_idx": 1,
+    "line_no": 488
+  },
+  {
+    "chunk_id": 131,
+    "qa_id": 85,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the GCDP_2025 project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/GCDP_2025",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the GCDP_2025 project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/GC",
+    "part_idx": 0,
+    "line_no": 492
+  },
+  {
+    "chunk_id": 132,
+    "qa_id": 85,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the GCDP_2025 project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/GCDP_2025",
+    "text": "epository here: https://github.com/Automatic28m/GCDP_2025",
+    "part_idx": 1,
+    "line_no": 492
+  },
+  {
+    "chunk_id": 133,
+    "qa_id": 86,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in PHP or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in PHP and software development and engineering. For example, I built the home_speaker_website project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/home_speaker_website",
+    "text": "Question: What are your technical interests and expertise in PHP or software development and engineering? Do you have any projects related to this? Answer: I have expertise in PHP and software development and engineering. For example, I built the home_speaker_website project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/home_",
+    "part_idx": 0,
+    "line_no": 496
+  },
+  {
+    "chunk_id": 134,
+    "qa_id": 86,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in PHP or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in PHP and software development and engineering. For example, I built the home_speaker_website project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/home_speaker_website",
+    "text": "sitory here: https://github.com/Automatic28m/home_speaker_website",
+    "part_idx": 1,
+    "line_no": 496
+  },
+  {
+    "chunk_id": 135,
+    "qa_id": 87,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in PHP or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in PHP and software development and engineering. For example, I built the Internship-Web-App-for-TATC-Student project, which focuses on This is a final year project for a diploma in Software Development.. You can view the repository here: https://github.com/Automatic28m/Internship-Web-App-for-TATC-Student",
+    "text": "Question: What are your technical interests and expertise in PHP or software development and engineering? Do you have any projects related to this? Answer: I have expertise in PHP and software development and engineering. For example, I built the Internship-Web-App-for-TATC-Student project, which focuses on This is a final year project for a diploma in Software Development.. You can view the repos",
+    "part_idx": 0,
+    "line_no": 500
+  },
+  {
+    "chunk_id": 136,
+    "qa_id": 87,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in PHP or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in PHP and software development and engineering. For example, I built the Internship-Web-App-for-TATC-Student project, which focuses on This is a final year project for a diploma in Software Development.. You can view the repository here: https://github.com/Automatic28m/Internship-Web-App-for-TATC-Student",
+    "text": "a in Software Development.. You can view the repository here: https://github.com/Automatic28m/Internship-Web-App-for-TATC-Student",
+    "part_idx": 1,
+    "line_no": 500
+  },
+  {
+    "chunk_id": 137,
+    "qa_id": 88,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the jwt-react-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/jwt-react-app-demo",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the jwt-react-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automa",
+    "part_idx": 0,
+    "line_no": 504
+  },
+  {
+    "chunk_id": 138,
+    "qa_id": 88,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the jwt-react-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/jwt-react-app-demo",
+    "text": "iew the repository here: https://github.com/Automatic28m/jwt-react-app-demo",
+    "part_idx": 1,
+    "line_no": 504
+  },
+  {
+    "chunk_id": 139,
+    "qa_id": 89,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and software development and engineering. For example, I built the ML_Transformer_Network_Lab project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/ML_Transformer_Network_Lab",
+    "text": "Question: What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Jupyter Notebook and software development and engineering. For example, I built the ML_Transformer_Network_Lab project, which focuses on various technical implementations. You can view the repository here: https",
+    "part_idx": 0,
+    "line_no": 508
+  },
+  {
+    "chunk_id": 140,
+    "qa_id": 89,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Jupyter Notebook or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Jupyter Notebook and software development and engineering. For example, I built the ML_Transformer_Network_Lab project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/ML_Transformer_Network_Lab",
+    "text": "entations. You can view the repository here: https://github.com/Automatic28m/ML_Transformer_Network_Lab",
+    "part_idx": 1,
+    "line_no": 508
+  },
+  {
+    "chunk_id": 141,
+    "qa_id": 90,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Vue or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Vue and software development and engineering. For example, I built the myApp project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/myApp",
+    "text": "Question: What are your technical interests and expertise in Vue or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Vue and software development and engineering. For example, I built the myApp project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/myApp",
+    "part_idx": 0,
+    "line_no": 512
+  },
+  {
+    "chunk_id": 142,
+    "qa_id": 91,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the nextjs-gallery-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/nextjs-gallery-app-demo",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the nextjs-gallery-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/A",
+    "part_idx": 0,
+    "line_no": 516
+  },
+  {
+    "chunk_id": 143,
+    "qa_id": 91,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the nextjs-gallery-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/nextjs-gallery-app-demo",
+    "text": "can view the repository here: https://github.com/Automatic28m/nextjs-gallery-app-demo",
+    "part_idx": 1,
+    "line_no": 516
+  },
+  {
+    "chunk_id": 144,
+    "qa_id": 92,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the nextjs-push-notification-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/nextjs-push-notification-app-demo",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the nextjs-push-notification-app-demo project, which focuses on various technical implementations. You can view the repository here: https://gi",
+    "part_idx": 0,
+    "line_no": 520
+  },
+  {
+    "chunk_id": 145,
+    "qa_id": 92,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the nextjs-push-notification-app-demo project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/nextjs-push-notification-app-demo",
+    "text": "ions. You can view the repository here: https://github.com/Automatic28m/nextjs-push-notification-app-demo",
+    "part_idx": 1,
+    "line_no": 520
+  },
+  {
+    "chunk_id": 146,
+    "qa_id": 93,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in HTML or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in HTML and software development and engineering. For example, I built the Phanlop-Portfolio project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Phanlop-Portfolio",
+    "text": "Question: What are your technical interests and expertise in HTML or software development and engineering? Do you have any projects related to this? Answer: I have expertise in HTML and software development and engineering. For example, I built the Phanlop-Portfolio project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Phanlo",
+    "part_idx": 0,
+    "line_no": 524
+  },
+  {
+    "chunk_id": 147,
+    "qa_id": 93,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in HTML or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in HTML and software development and engineering. For example, I built the Phanlop-Portfolio project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/Phanlop-Portfolio",
+    "text": "itory here: https://github.com/Automatic28m/Phanlop-Portfolio",
+    "part_idx": 1,
+    "line_no": 524
+  },
+  {
+    "chunk_id": 148,
+    "qa_id": 94,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the phanlop-portfolio-react-project project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/phanlop-portfolio-react-project",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the phanlop-portfolio-react-project project, which focuses on various technical implementations. You can view the repository here: https://gith",
+    "part_idx": 0,
+    "line_no": 528
+  },
+  {
+    "chunk_id": 149,
+    "qa_id": 94,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the phanlop-portfolio-react-project project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/phanlop-portfolio-react-project",
+    "text": "ns. You can view the repository here: https://github.com/Automatic28m/phanlop-portfolio-react-project",
+    "part_idx": 1,
+    "line_no": 528
+  },
+  {
+    "chunk_id": 150,
+    "qa_id": 95,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the portfolio_nextjs project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/portfolio_nextjs",
+    "text": "Question: What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this? Answer: I have expertise in JavaScript and software development and engineering. For example, I built the portfolio_nextjs project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automati",
+    "part_idx": 0,
+    "line_no": 532
+  },
+  {
+    "chunk_id": 151,
+    "qa_id": 95,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and software development and engineering. For example, I built the portfolio_nextjs project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/portfolio_nextjs",
+    "text": "w the repository here: https://github.com/Automatic28m/portfolio_nextjs",
+    "part_idx": 1,
+    "line_no": 532
+  },
+  {
+    "chunk_id": 152,
+    "qa_id": 96,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and software development and engineering. For example, I built the python-guidatabase project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/python-guidatabase",
+    "text": "Question: What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Python and software development and engineering. For example, I built the python-guidatabase project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/p",
+    "part_idx": 0,
+    "line_no": 536
+  },
+  {
+    "chunk_id": 153,
+    "qa_id": 96,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and software development and engineering. For example, I built the python-guidatabase project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/python-guidatabase",
+    "text": "repository here: https://github.com/Automatic28m/python-guidatabase",
+    "part_idx": 1,
+    "line_no": 536
+  },
+  {
+    "chunk_id": 154,
+    "qa_id": 97,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and software development and engineering. For example, I built the python-stock-tracker project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/python-stock-tracker",
+    "text": "Question: What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Python and software development and engineering. For example, I built the python-stock-tracker project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m",
+    "part_idx": 0,
+    "line_no": 540
+  },
+  {
+    "chunk_id": 155,
+    "qa_id": 97,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and software development and engineering. For example, I built the python-stock-tracker project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/python-stock-tracker",
+    "text": "e repository here: https://github.com/Automatic28m/python-stock-tracker",
+    "part_idx": 1,
+    "line_no": 540
+  },
+  {
+    "chunk_id": 156,
+    "qa_id": 98,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and software development and engineering. For example, I built the python_vending_machine_2024 project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/python_vending_machine_2024",
+    "text": "Question: What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this? Answer: I have expertise in Python and software development and engineering. For example, I built the python_vending_machine_2024 project, which focuses on various technical implementations. You can view the repository here: https://github.com/Autom",
+    "part_idx": 0,
+    "line_no": 544
+  },
+  {
+    "chunk_id": 157,
+    "qa_id": 98,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in Python or software development and engineering? Do you have any projects related to this?",
+    "answer": "I have expertise in Python and software development and engineering. For example, I built the python_vending_machine_2024 project, which focuses on various technical implementations. You can view the repository here: https://github.com/Automatic28m/python_vending_machine_2024",
+    "text": "view the repository here: https://github.com/Automatic28m/python_vending_machine_2024",
+    "part_idx": 1,
+    "line_no": 544
+  },
+  {
+    "chunk_id": 158,
+    "qa_id": 99,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or reactjs? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and reactjs. For example, I built the react-app-demos project, which focuses on These demo applications illustrate how each library operates within a ReactJS environment.. You can view the repository here: https://github.com/Automatic28m/react-app-demos",
+    "text": "Question: What are your technical interests and expertise in JavaScript or reactjs? Do you have any projects related to this? Answer: I have expertise in JavaScript and reactjs. For example, I built the react-app-demos project, which focuses on These demo applications illustrate how each library operates within a ReactJS environment.. You can view the repository here: https://github.com/Automatic2",
+    "part_idx": 0,
+    "line_no": 548
+  },
+  {
+    "chunk_id": 159,
+    "qa_id": 99,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or reactjs? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and reactjs. For example, I built the react-app-demos project, which focuses on These demo applications illustrate how each library operates within a ReactJS environment.. You can view the repository here: https://github.com/Automatic28m/react-app-demos",
+    "text": "the repository here: https://github.com/Automatic28m/react-app-demos",
+    "part_idx": 1,
+    "line_no": 548
+  },
+  {
+    "chunk_id": 160,
+    "qa_id": 100,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or ai, mysql-database, nextjs, retrieval-augmented-generation, tailwindcss, web-application? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and ai, mysql-database, nextjs, retrieval-augmented-generation, tailwindcss, web-application. For example, I built the thaivel project, which focuses on A tourism website that provides Thailand attractions all over the country also with support from AI chatbot that can give you attractions those match your preference. You can view the repository here: https://github.com/Automatic28m/thaivel",
+    "text": "Question: What are your technical interests and expertise in JavaScript or ai, mysql-database, nextjs, retrieval-augmented-generation, tailwindcss, web-application? Do you have any projects related to this? Answer: I have expertise in JavaScript and ai, mysql-database, nextjs, retrieval-augmented-generation, tailwindcss, web-application. For example, I built the thaivel project, which focuses on A",
+    "part_idx": 0,
+    "line_no": 552
+  },
+  {
+    "chunk_id": 161,
+    "qa_id": 100,
+    "category": "No category",
+    "question": "What are your technical interests and expertise in JavaScript or ai, mysql-database, nextjs, retrieval-augmented-generation, tailwindcss, web-application? Do you have any projects related to this?",
+    "answer": "I have expertise in JavaScript and ai, mysql-database, nextjs, retrieval-augmented-generation, tailwindcss, web-application. For example, I built the thaivel project, which focuses on A tourism website that provides Thailand attractions all over the country also with support from AI chatbot that can give you attractions those match your preference. You can view the repository here: https://github.com/Automatic28m/thaivel",
+    "text": "e, I built the thaivel project, which focuses on A tourism website that provides Thailand attractions all over the country also with support from AI chatbot that can give you attractions those match your preference. You can view the repository here: https://github.com/Automatic28m/thaivel",
+    "part_idx": 1,
+    "line_no": 552
   }
 ]

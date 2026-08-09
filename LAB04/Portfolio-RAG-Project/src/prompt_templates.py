@@ -17,7 +17,8 @@ Rules:
 5. Use polite, professional, and straightforward language.
 6. Keep the answer concise and cover the key points.
 7. Answer in the first person ("I", "my", "me").
-8. You MUST ALWAYS answer in English."""
+8. If your answer mentions a specific project or repository from the reference data, you MUST include its URL link in your response.
+9. You MUST ALWAYS answer in English."""
 
 USER_PROMPT = """{history}Reference Data:
 {context}

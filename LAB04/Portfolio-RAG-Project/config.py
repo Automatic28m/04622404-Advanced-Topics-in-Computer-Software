@@ -16,7 +16,7 @@ for _s in (sys.stdout, sys.stderr):
 # 1. ลองปิดทีละตัวแล้วรัน evaluation ดูว่าคะแนนเปลี่ยนไปแค่ไหน
 
 USE_HYBRID = True            # ค้นด้วย BM25 ควบคู่กับ dense (ปิด = dense อย่างเดียว)
-USE_RERANK = False            # จัดอันดับใหม่ด้วย cross-encoder — แม่นขึ้นแต่ช้ามาก
+USE_RERANK = True            # จัดอันดับใหม่ด้วย cross-encoder — แม่นขึ้นแต่ช้ามาก
 USE_QUERY_TRANSFORM = False      # แปลงคำถามก่อนค้น — เสีย LLM เพิ่ม 1 ครั้งต่อคำถาม
 USE_MEMORY = True              # จำบทสนทนา เพื่อตอบคำถามต่อเนื่องได้
 USE_LLM = True              # False = แสดงข้อความที่ค้นได้ดิบ ๆ ไม่เรียก LLM เลย
@@ -57,7 +57,7 @@ CHUNK_OVERLAP = 50      # ให้ chunk ที่ติดกันเหล�
 EMBEDDING_MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
 
 # 4. การค้นหา
-TOP_K = 15               # ส่งกี่ chunk ให้ LLM เขียนคำตอบ
+TOP_K = 3               # ส่งกี่ chunk ให้ LLM เขียนคำตอบ
 CANDIDATE_K = 30        # ดึง TOP_K
 RRF_K = 60              # ค่าคงที่ของสูตร RRF 
 
@@ -67,7 +67,7 @@ QUERY_TRANSFORM_MODE = "multi_query"   # rewrite | multi_query | hyde
 MULTI_QUERY_COUNT = 3
 
 # 5. LLM
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "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"
 
 LLM_PROVIDER = "groq"
 LLM_MODEL = ""          # เว้นว่าง = ใช้ค่า default 

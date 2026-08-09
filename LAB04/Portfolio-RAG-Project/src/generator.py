@@ -87,7 +87,7 @@ class Generator:
         try:
             answer = self.llm.chat(messages)
         except Exception as error:
-            #print(f"[llm] เรียกไม่สำเร็จ ({error}) — แสดงข้อมูลที่ค้นได้แทน")
+            print(f"[llm] Generation Failed ({error}) — Returning raw chunks instead.")
             answer = "\n\n".join([f"[{i+1}] {c.get('answer', c.get('text', ''))}" for i, c in enumerate(chunks)])
 
         if config.DISCLAIMER not in answer:
