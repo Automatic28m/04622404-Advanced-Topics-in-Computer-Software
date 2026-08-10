@@ -87,19 +87,19 @@ def summarize(rows):
         return round(sum(row[key] for row in rows) / len(rows), 4)
 
     return {
-        "จำนวนข้อ": len(rows),
-        "อัตราการตอบว่าไม่รู้": mean("refused"),
-        "อัตราค้นเจอ chunk ที่ถูก": mean("context_hit"),
-        "มีการอ้างอิง [n]": mean("has_citation"),
+        "Total questions": len(rows),
+        "No-context rate": mean("refused"),
+        "Correct chunk hit rate": mean("context_hit"),
+        "Citation rate [n]": mean("has_citation"),
         "faithfulness": mean("faithfulness"),
         "correctness": mean("correctness"),
         "relevance": mean("relevance"),
-        "เวลาเฉลี่ย (วินาที)": mean("seconds"),
+        "Average time (seconds)": mean("seconds"),
     }
 
 
 def main():
-    print("=== วัดคุณภาพคำตอบ ===")
+    print("=== Evaluating Generation Quality ===")
 
     from src.rag_pipeline import RAGPipeline
 
@@ -113,8 +113,8 @@ def main():
     rag.show_settings()
 
     if not config.USE_LLM:
-        print("\n! USE_LLM = False — คำตอบเป็นการตัดข้อความมา ไม่ใช่การสร้างจริง")
-        print("  ตั้ง USE_LLM = True ใน config.py เพื่อให้ตัวเลขมีความหมาย")
+        print("\n! USE_LLM = False — Answer is just extracted text, not actual generation")
+        print("  Set USE_LLM = True in config.py for meaningful numbers")
 
     rows = []
     for number, item in enumerate(items, start=1):
@@ -125,18 +125,18 @@ def main():
 
     summary = summarize(rows)
 
-    print("\n\n=== สรุป ===")
+    print("\n\n=== Summary ===")
     for name, value in summary.items():
         print(f"  {name:26s} {value}")
 
-    print("\n=== คำตอบที่ยึดตามเอกสารน้อยที่สุด (น่าสงสัยว่าแต่งเอง) ===")
+    print("\n=== Least Faithful Answers (Possible Hallucinations) ===")
     for row in sorted(rows, key=lambda r: r["faithfulness"])[:3]:
         print(f"  {row['id']} ({row['faithfulness']:.3f}) {row['query'][:50]}")
         print(f"      {row['answer'][:100]}...")
 
     with open(config.EVAL_GENERATION_FILE, "w", encoding="utf-8") as f:
         json.dump({"summary": summary, "results": rows}, f, ensure_ascii=False, indent=2)
-    print(f"\nบันทึกรายงานที่ {config.EVAL_GENERATION_FILE}")
+    print(f"\nSaved report to {config.EVAL_GENERATION_FILE}")
 
 
 if __name__ == "__main__":

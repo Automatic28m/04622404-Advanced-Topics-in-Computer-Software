@@ -40,19 +40,19 @@ from src.prompt_templates import HYDE_PROMPT, MULTI_QUERY_PROMPT, REWRITE_PROMPT
 
 # ตารางแทนคำแสลง — เพิ่มคำได้ตามต้องการ ไม่ต้องแก้โค้ดส่วนอื่น
 SLANG_MAP = {
-    "น้องชาย": "อวัยวะเพศชาย",
-    "น้องสาว": "อวัยวะเพศหญิง",
-    "จู๋": "อวัยวะเพศชาย",
-    "จิ๋ม": "อวัยวะเพศหญิง",
-    "ถุงยาง": "ถุงยางอนามัย",
-    "เอดส์": "เอชไอวี",
-    "มีอะไรกัน": "มีเพศสัมพันธ์",
-    "โรคจากเซ็กส์": "โรคติดต่อทางเพศสัมพันธ์",
-    "เมนส์": "ประจำเดือน",
+    "Uni": "University",
+    "BSc": "Bachelor's Degree",
+    "Program": "Software",
+    "App": "Application",
+    "Work history": "Experience",
+    "What you can do": "Skills",
+    "AI": "Artificial Intelligence",
+    "CompEng": "Computer Engineering",
+    "Repo": "Repository"
 }
 
 # คำลงท้ายที่ไม่ช่วยในการค้นหา
-ENDING_WORDS = re.compile(r"\s*(ครับ|ค่ะ|คะ|จ้า|น้า|หน่อย)\s*$")
+ENDING_WORDS = re.compile(r"\s*(please|thanks|thank you|anyway)\s*$", re.IGNORECASE)
 
 
 def normalize_query(query):
