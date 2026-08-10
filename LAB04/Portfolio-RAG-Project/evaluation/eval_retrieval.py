@@ -80,12 +80,12 @@ def run_one_setting(retriever, items, top_k, use_bm25, use_dense):
 
 
 def main():
-    print("=== วัดคุณภาพการค้นหา ===")
+    print("=== Evaluating Retrieval Quality ===")
 
     golden = load_golden_set()
     items = golden["items"][:LIMIT] if LIMIT else golden["items"]
     top_k = max(config.EVAL_K_VALUES)
-    print(f"จำนวนข้อ: {len(items)} | รูปแบบคำถาม: {', '.join(VARIANTS)}\n")
+    print(f"Total questions: {len(items)} | Query variants: {', '.join(VARIANTS)}\n")
 
     from src.hybrid_retriever import HybridRetriever, load_bm25
     from src.rerankers import get_reranker
@@ -129,33 +129,33 @@ def main():
         }
         all_misses = misses
 
-        print(f"  {name:16s} เสร็จใน {time.time() - start_time:.1f}s")
+        print(f"  {name:16s} completed in {time.time() - start_time:.1f}s")
 
     config.USE_HYBRID = original_hybrid     # คืนค่าเดิม
 
     # ---------------------------------------------------------- รายงาน
     columns = ["hit@1", f"hit@{top_k}", "mrr", "ndcg@3"]
 
-    print("\n=== ภาพรวม (ทุกรูปแบบคำถาม) ===")
+    print("\n=== Overview (All Query Variants) ===")
     print_table({name: r["overall"] for name, r in results.items()}, columns)
 
     for variant in VARIANTS:
         rows = {name: r["by_variant"].get(variant, {}) for name, r in results.items()}
         if any(rows.values()):
-            print(f"\n=== รูปแบบ: {variant} ===")
+            print(f"\n=== Variant: {variant} ===")
             print_table(rows, columns)
 
-    print("\n=== ความเร็ว ===")
+    print("\n=== Speed ===")
     for name, report in results.items():
-        print(f"  {name:16s} {report['ms_per_query']:8.1f} ms ต่อคำถาม")
+        print(f"  {name:16s} {report['ms_per_query']:8.1f} ms per question")
 
     baseline = results["dense_only"]["overall"]["mrr"]
     best_name = max(results, key=lambda n: results[n]["overall"]["mrr"])
     best = results[best_name]["overall"]["mrr"]
     if best_name != "dense_only" and baseline > 0:
         change = (best - baseline) / baseline * 100
-        print(f"\nดีที่สุด: {best_name} — MRR {best:.4f}")
-        print(f"เทียบกับ dense_only {baseline:.4f}  ({change:+.1f}%)")
+        print(f"\nBest: {best_name} — MRR {best:.4f}")
+        print(f"Compared to dense_only {baseline:.4f}  ({change:+.1f}%)")
 
     if all_misses:
         print(f"\n=== ตัวอย่างที่ค้นไม่เจอ (รูปแบบ natural) ===")
@@ -166,7 +166,7 @@ def main():
     with open(config.EVAL_RETRIEVAL_FILE, "w", encoding="utf-8") as f:
         json.dump({"n_items": len(items), "results": results}, f,
                   ensure_ascii=False, indent=2)
-    print(f"\nบันทึกรายงานที่ {config.EVAL_RETRIEVAL_FILE}")
+    print(f"\nSaved report to {config.EVAL_RETRIEVAL_FILE}")
 
 
 if __name__ == "__main__":
