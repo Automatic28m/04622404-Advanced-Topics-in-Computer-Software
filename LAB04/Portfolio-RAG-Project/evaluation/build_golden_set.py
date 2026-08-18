@@ -31,22 +31,23 @@ import config
 
 # ตรงข้ามกับ SLANG_MAP ใน query_transform: ศัพท์แพทย์ → ที่คนพูดกันจริง
 TO_SLANG = {
-    "อวัยวะเพศชาย": "น้องชาย",
-    "อวัยวะเพศหญิง": "น้องสาว",
-    "ถุงยางอนามัย": "ถุงยาง",
-    "โรคติดต่อทางเพศสัมพันธ์": "โรคจากเซ็กส์",
-    "มีเพศสัมพันธ์": "มีอะไรกัน",
-    "เอชไอวี": "เอดส์",
-    "ประจำเดือน": "เมนส์",
-    "การตั้งครรภ์": "ท้อง",
+    "University": "Uni",
+    "Bachelor's Degree": "BSc",
+    "Software": "Program",
+    "Application": "App",
+    "Experience": "Work history",
+    "Skills": "What you can do",
+    "Artificial Intelligence": "AI",
+    "Computer Engineering": "CompEng",
+    "Repository": "Repo"
 }
 
-PREFIXES = ["อยากรู้ว่า", "ขอถามหน่อย", "สงสัยว่า", ""]
-SUFFIXES = ["ครับ", "คะ", "อ่ะ", ""]
+PREFIXES = ["I want to know ", "Can you tell me ", "I was wondering ", ""]
+SUFFIXES = [" please", " thanks", " anyway", ""]
 SEED = 42        # ล็อกค่าสุ่มไว้ เพื่อให้ได้ชุดข้อสอบเดิมทุกครั้ง
 
-STOPWORDS = {"คือ", "อะไร", "ที่", "และ", "หรือ", "ของ", "ใน", "มี", "บ้าง",
-             "ได้", "ไหม", "อย่างไร", "ยังไง", "การ", "ความ", "เป็น", "ให้"}
+STOPWORDS = {"is", "what", "that", "and", "or", "of", "in", "have", "some",
+             "can", "how", "the", "a", "an", "to", "for", "with", "about"}
 
 
 def make_variants(question, rng):
@@ -67,14 +68,15 @@ def make_variants(question, rng):
         variants["partial"] = " ".join(words[:max(2, int(len(words) * 0.6))])
 
     # natural: ใส่คำนำ/คำลงท้ายแบบภาษาพูด
-    core = re.sub(r"\s*(คืออะไร|มีอะไรบ้าง|อย่างไร|ยังไง)\s*$", "", question).strip()
-    variants["natural"] = f"{rng.choice(PREFIXES)}{core} ยังไง{rng.choice(SUFFIXES)}".strip()
+    core = re.sub(r"^(what is|how to|tell me about)\s*", "", question, flags=re.IGNORECASE).strip()
+    core = re.sub(r"\?$", "", core).strip()
+    variants["natural"] = f"{rng.choice(PREFIXES)}{core}{rng.choice(SUFFIXES)}?".strip()
 
     return variants
 
 
 def main():
-    print("=== สร้าง Golden Set ===")
+    print("=== Building Golden Set ===")
     with open(config.CHUNK_STORE_FILE, "r", encoding="utf-8") as f:
         chunks = json.load(f)
 
@@ -115,12 +117,12 @@ def main():
     with open(config.GOLDEN_SET_FILE, "w", encoding="utf-8") as f:
         json.dump({"size": len(items), "items": items}, f, ensure_ascii=False, indent=2)
 
-    print(f"สร้าง {len(items)} ข้อ จาก {len(chunks)} chunks")
-    print("\nตัวอย่าง:")
+    print(f"Generated {len(items)} questions from {len(chunks)} chunks")
+    print("\nExample:")
     for name, text in items[0]["variants"].items():
         print(f"  {name:9s}: {text}")
-    print(f"  ควรค้นเจอ: {items[0]['relevant_chunk_ids']}")
-    print(f"\nบันทึกที่ {config.GOLDEN_SET_FILE}")
+    print(f"  Expected chunk IDs: {items[0]['relevant_chunk_ids']}")
+    print(f"\nSaved to {config.GOLDEN_SET_FILE}")
 
 
 if __name__ == "__main__":

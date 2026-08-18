@@ -93,12 +93,12 @@ class RAGPipeline:
     def show_settings(self):
         """พิมพ์ว่าตอนนี้เปิดขั้นตอนไหนอยู่บ้าง"""
         settings = [
-            ("ค้นแบบผสม BM25 + dense", config.USE_HYBRID),
-            ("จัดอันดับใหม่ (rerank)", config.USE_RERANK),
-            ("ปรับคำถามก่อนค้น", config.USE_QUERY_TRANSFORM),
-            ("จำบทสนทนา", config.USE_MEMORY),
-            ("ใช้ LLM เขียนคำตอบ", config.USE_LLM),
+            ("Hybrid search BM25 + dense", config.USE_HYBRID),
+            ("Reranking", config.USE_RERANK),
+            ("Query transformation", config.USE_QUERY_TRANSFORM),
+            ("Conversation memory", config.USE_MEMORY),
+            ("LLM Generation", config.USE_LLM),
         ]
-        print("การตั้งค่า (แก้ได้ที่ config.py):")
+        print("Settings (can be edited in config.py):")
         for name, enabled in settings:
-            print(f"  {'เปิด' if enabled else 'ปิด '}  {name}")
+            print(f"  {'ON ' if enabled else 'OFF'}  {name}")
